@@ -9,7 +9,7 @@ gallery:
 
 
 
-![text about an image](_pages/logo-iac.png){: height="10px"} ![text about an image](_pages/ljmu_logo.png) ![text about an image](_pages/narit.png)
+![text about an image](_pages/logo-iac.png){: height="10px" width="10px"} ![text about an image](_pages/ljmu_logo.png) ![text about an image](_pages/narit.png)
 
 # Ground-breaking rapid robotic follow-up with a 4-metre successor to the Liverpool Telescope
 
