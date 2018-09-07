@@ -2,8 +2,8 @@
 title:  "Meet the Team"
 layout: archive
 permalink: /team/
-author_profile: true
-comments: true
+author_profile: false
+comments: false
 ---
 
 [Home](index.md)
