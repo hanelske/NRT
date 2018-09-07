@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Science"
-    url: /sciece/
-  - title: "Telescope"
+    url: /science/
+  - title: "About"
     url: /telescope/
   - title: "Team"
     url: /team/
