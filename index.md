@@ -1,7 +1,13 @@
 ---
 layout: archive
 author_profile: false
+gallery: 
+ - image_path: _pages/logo-iac.png
+ - image_path: _pages/ljmu_log.png
+ - image_path: _pages/narit.png
 ---
+
+
 
 ![text about an image](_pages/logo-iac.png){:height="10px"} ![text about an image](_pages/ljmu_logo.png) ![text about an image](_pages/narit.png)
 
