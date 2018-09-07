@@ -1,10 +1,9 @@
 ---
+title: Ground-breaking rapid robotic follow-up with a 4-metre successor to the Liverpool Telescope
 layout: single
 author_profile: false
 ---
 
-
-# Ground-breaking rapid robotic follow-up with a 4-metre successor to the Liverpool Telescope
 
 Welcome to the new webpage for the Liverpool New Robotic Telescope (NRT); a collaboration between Liverpool John Moores University and the Instituto de Astrofísica de Canarias. The [design team](team.md), established in early 2018, are in the process of finalising the engineering and science requirements of the [facility](telescope.md). The NRT [science case](science_case.md) details the science drivers for the project; the NRT team welcome ideas and contributions across the astronomy community. To get in touch see our [design team](team.md) page.
 
