@@ -4,7 +4,7 @@ layout: archive
 permalink: /team/
 author_profile: false
 comments: false
-toc:true
+toc: true
 ---
 
 The NRT design team consist of staff from LJMU and IAC. Below is a brief bio and photo of each of the team members.
