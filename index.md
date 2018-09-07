@@ -1,15 +1,12 @@
 ---
 layout: single
 author_profile: false
-gallery: 
- - image_path: _pages/logo-iac.png
- - image_path: _pages/ljmu_log.png
- - image_path: _pages/narit.png
 ---
 
-<img src="_pages/logo-iac.png" height=30 />
+<img src="_pages/logo-iac.png" height=100 />
+<img src="_pages/ljmu_logo.png" height=100 />
+<img src="_pages/narit.png" height=100 />
 
-![text about an image](_pages/logo-iac.png){: height=10} ![text about an image](_pages/ljmu_logo.png) ![text about an image](_pages/narit.png)
 
 # Ground-breaking rapid robotic follow-up with a 4-metre successor to the Liverpool Telescope
 
@@ -21,4 +18,4 @@ The [news](news.md) page details the latest project developments including works
 
 NRT Workshop group photo. Left to right: Marco Lam, Iain Steele, Robin Leatherbarrow, Abigail Lewis, Paulo Lisboa, Ian Baker, Adrian McGrath, Phil James, Suparerk Aukkaravittayapun, Chris Copperwheat, Saran Poshyachinda, Juan Cozar, Christophe Buisset, Helen Jermak, Thirasak Panyaphirawat, Apirat Prasit, Carlos M Gutierrez, Ahmed Al Shamma’a. Credit: Marco Lam.
 
-{% include gallery %}
+
