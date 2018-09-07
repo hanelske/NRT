@@ -1,3 +1,12 @@
+
+---
+title:  "Science Case"
+layout: archive
+permalink: /science/
+author_profile: true
+comments: true
+---
+
 # Science Case
 
 ![text about an image](15640727497_d9263ee46c_o.jpg)
