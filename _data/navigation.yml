@@ -6,8 +6,11 @@ main:
     url: /telescope/
   - title: "Team"
     url: /team/
-  - title: "LT"
+  - title: "LT" 
     url: http://telescope.livjm.ac.uk/
+  - title: "News"
+    url: /news/
+    
     
   # - title: "Sample Posts"
   #   url: /year-archive/
