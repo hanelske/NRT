@@ -2,7 +2,7 @@
 ---
 title:  "Science Case"
 layout: archive
-permalink: /science/
+permalink: /science_case/
 author_profile: false
 comments: false
 ---
