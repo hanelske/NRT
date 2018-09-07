@@ -5,6 +5,8 @@ toc: true
 permalink: /science_case/
 author_profile: false
 comments: false
+sidebar:
+  nav: "docs"
 ---
 
 ![text about an image](15640727497_d9263ee46c_o.jpg)
