@@ -12,15 +12,15 @@ main:
     url: http://telescope.livjm.ac.uk/
    
 #side bar
-side:
+docs:
   - title:  "Quick Links"
-  children:
-    - title: "Science"
-      url: /science_case/
-    - title: "About"
-      url: /telescope/
-    - title: "Team"
-      url: /team/
-    - title: "News"
-      url: /news/
+    children:
+      - title: "Science"
+        url: /science_case/
+      - title: "About"
+        url: /telescope/
+      - title: "Team"
+        url: /team/
+      - title: "News"
+        url: /news/
     
