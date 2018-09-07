@@ -1,6 +1,7 @@
 ---
 title:  "Science Case"
-layout: archive
+layout: single
+toc: true
 permalink: /science_case/
 author_profile: false
 comments: false
