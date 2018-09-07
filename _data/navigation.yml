@@ -10,11 +10,16 @@ main:
     url: /news/
   - title: "LT" 
     url: http://telescope.livjm.ac.uk/
-    
-    
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   
+#side bar
+side:
+  - title: "Science"
+    url: /science_case/
+  - title: "About"
+    url: /telescope/
+  - title: "Team"
+    url: /team/
+  - title: "News"
+    url: /news/
+  - title: "LT" 
+    url: http://telescope.livjm.ac.uk/
