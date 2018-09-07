@@ -2,8 +2,15 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "page1"
-    url: /page1/
+  - title: "Science"
+    url: /sciece/
+  - title: "Telescope"
+    url: /telescope/
+  - title: "Team"
+    url: /team/
+  - title: "LT"
+    url: https://telescope.livjm.ac.uk/
+    
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
