@@ -13,6 +13,8 @@ main:
    
 #side bar
 side:
+title:  "Quick Links"
+children:
   - title: "Science"
     url: /science_case/
   - title: "About"
