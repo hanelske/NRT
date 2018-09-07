@@ -1,3 +1,11 @@
+---
+title:  "Project News"
+layout: archive
+permalink: /news/
+author_profile: false
+comments: false
+---
+
 # Latest Project News
 
 * 02 August 2018	OPTICON Call for Proposals for Semester 2019A
