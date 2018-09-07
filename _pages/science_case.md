@@ -3,8 +3,8 @@
 title:  "Science Case"
 layout: archive
 permalink: /science/
-author_profile: true
-comments: true
+author_profile: false
+comments: false
 ---
 
 # Science Case
