@@ -62,4 +62,4 @@ I finished my PhD entitled the 'Structure and Evolution of Classical Nova Shells
 # NARIT
 
 ## Dr Thirasak Panyaphirawat 
-Project Partner**
+**Project Partner**
