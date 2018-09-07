@@ -1,5 +1,5 @@
 ---
-layout: home
-author_profile: true
+layout: archive
+author_profile: false
 ---
 
