@@ -278,4 +278,4 @@ defaults:
       type: docs
     values:
       sidebar:
-        nav: "side"
+        nav: "docs"
