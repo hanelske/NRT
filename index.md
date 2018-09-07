@@ -15,6 +15,7 @@ The [news](news.md) page details the latest project developments including works
 
 NRT Workshop group photo. Left to right: Marco Lam, Iain Steele, Robin Leatherbarrow, Abigail Lewis, Paulo Lisboa, Ian Baker, Adrian McGrath, Phil James, Suparerk Aukkaravittayapun, Chris Copperwheat, Saran Poshyachinda, Juan Cozar, Christophe Buisset, Helen Jermak, Thirasak Panyaphirawat, Apirat Prasit, Carlos M Gutierrez, Ahmed Al Shamma’a. Credit: Marco Lam.
 
-![ljmu](_pages/ljmu_logo.png){: height="10px" }
+<img src="_pages/ljmu_logo.png" height=20 />
+
 
 
