@@ -1,5 +1,5 @@
 ---
-title:  "Meet the Team"
+title: "Meet the Team"
 layout: simple
 permalink: /team/
 author_profile: false
@@ -10,14 +10,14 @@ The NRT design team consist of staff from LJMU and IAC. Below is a brief bio and
 
 # LJMU
 
-## Professor Iain Steele; 
+## Professor Iain Steele 
 **NRT Director**
 
 ![Iain Steele](ias.jpg)
 
 I am the LT Director and Head of the Technology Group at ARI, LJMU.  I obtained my PhD in observational infrared astronomy from the Univeristy of Leicester in 1994, and then worked as a Research Fellow at the University of Southampton until 1996 when I moved to LJMU to work on the original robotic telescope project.  My research interests include novel astronomical instrumentation, especially polarimetric and spectroscopic, as well as observational work on a wide range of time variable phenomena including GRBs, Be stars, blazars and exoplanets.  Although I am from Newcastle upon Tyne, I have absolutely no interest in football!
 
-## Dr. Chris Copperwheat; 
+## Dr. Chris Copperwheat
 **NRT Deputy-PI**
 
 ![Chris Copperwheat](astccopp.jpg)
@@ -61,5 +61,5 @@ I finished my PhD entitled the 'Structure and Evolution of Classical Nova Shells
 
 # NARIT
 
-##Dr Thirasak Panyaphirawat 
+## Dr Thirasak Panyaphirawat 
 Project Partner**
