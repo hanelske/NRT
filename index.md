@@ -7,7 +7,7 @@ gallery:
  - image_path: _pages/narit.png
 ---
 
-<img src="_pages/logo-iac>" height=30">
+<img src="_pages/logo-iac>" height=30>
 
 ![text about an image](_pages/logo-iac.png){: height=10} ![text about an image](_pages/ljmu_logo.png) ![text about an image](_pages/narit.png)
 
