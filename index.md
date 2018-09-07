@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 author_profile: false
 gallery: 
  - image_path: _pages/logo-iac.png
