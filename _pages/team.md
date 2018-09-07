@@ -1,3 +1,11 @@
+---
+title:  "Meet the Team"
+layout: archive
+permalink: /team/
+author_profile: true
+comments: true
+---
+
 [Home](index.md)
 
 # Meet the Team
