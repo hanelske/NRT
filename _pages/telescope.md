@@ -2,8 +2,8 @@
 title:  "About The Telescope"
 layout: archive
 permalink: /telescope/
-author_profile: true
-comments: true
+author_profile: false
+comments: false
 ---
 
 # A rapid response robotic telescope on La Palma
