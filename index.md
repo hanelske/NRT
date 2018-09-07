@@ -2,6 +2,8 @@
 title: Ground-breaking rapid robotic follow-up with a 4-metre successor to the Liverpool Telescope
 layout: single
 author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 
