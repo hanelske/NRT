@@ -1,6 +1,6 @@
 ---
 title:  "Meet the Team"
-layout: archive
+layout: simple
 permalink: /team/
 author_profile: false
 comments: false
