@@ -11,9 +11,7 @@ Welcome to the new webpage for the Liverpool New Robotic Telescope (NRT); a coll
 
 The [news](news.md) page details the latest project developments including workshops, meetings, partners and outreach.
 
-![NRT workshop photo](_pages/NRTW_group_2_400.png) 
 
-NRT Workshop group photo. Left to right: Marco Lam, Iain Steele, Robin Leatherbarrow, Abigail Lewis, Paulo Lisboa, Ian Baker, Adrian McGrath, Phil James, Suparerk Aukkaravittayapun, Chris Copperwheat, Saran Poshyachinda, Juan Cozar, Christophe Buisset, Helen Jermak, Thirasak Panyaphirawat, Apirat Prasit, Carlos M Gutierrez, Ahmed Al Shamma’a. Credit: Marco Lam.
 
 
 
