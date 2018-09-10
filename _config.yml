@@ -79,7 +79,7 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               :
-facebook:                 https://www.facebook.com/liverpooltelescope
+facebook:                 #https://www.facebook.com/liverpooltelescope
   username               :
   app_id                 :
   publisher              :
@@ -112,7 +112,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : liverpooltelescope
   foursquare       :
   github           :
   gitlab           :
