@@ -16,6 +16,11 @@ comments: false
 * 13 February 2018	OPTICON Call for Proposals for Semester 2018B
 * 05 February 2018	CCI International Time Programme 2018-2019 Call for Proposals
 * 25 January 2018	New Robotic Telescope workshop held in Liverpool
+
+![NRT workshop photo](_pages/NRTW_group_2_400.png) 
+
+NRT Workshop group photo. Left to right: Marco Lam, Iain Steele, Robin Leatherbarrow, Abigail Lewis, Paulo Lisboa, Ian Baker, Adrian McGrath, Phil James, Suparerk Aukkaravittayapun, Chris Copperwheat, Saran Poshyachinda, Juan Cozar, Christophe Buisset, Helen Jermak, Thirasak Panyaphirawat, Apirat Prasit, Carlos M Gutierrez, Ahmed Al Shamma’a. Credit: Marco Lam.
+
 * 10 November 2017	Interstellar visitor tracked with LT
 * 09 October 2017	Job Opportunities within LT Group for New Robotic Telescope
 * 04 October 2017	Liverpool Telescope project shortlisted for Research Project of the Year
