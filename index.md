@@ -12,8 +12,8 @@ Following on from the on-going success of the 2-metre fully autonomous and robot
 
 [![Minimal Mistakes live preview][2]][1]
 
-[1]: https://mmistakes.github.io/minimal-mistakes/
-[2]:  ![LT2](assets/LT2.png) (live preview)
+[1]: ![LT2](assets/LT2.png)
+[2]: ![LT2](assets/LT2.png) (live preview)
 
 ![layout examples]( ![LT2](assets/LT2.png))
 
