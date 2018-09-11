@@ -15,9 +15,9 @@ Following on from the on-going success of the 2-metre fully autonomous and robot
 
 
 
-| `air` | `contrast` | `dark` |
-| --- | --- | --- |
-| ![](assets/LT2.png)| ![](assets/LT2.png) | ![](assets/LT2.png) |
+
+| --- |
+| ![](assets/LT2.png)| 
 
 
 
