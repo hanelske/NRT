@@ -13,4 +13,4 @@ Following on from the on-going success of the 2-metre fully autonomous and robot
 
 |  |  |  |
 | --- | --- | --- |
-| ![LT2](assets/LT2.png) | ![LT2](assets/LT2.png) | ![LT2](assets/LT2.png) |
+|  | ![LT2](assets/LT2.png) |  |
