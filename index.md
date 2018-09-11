@@ -12,6 +12,7 @@ Following on from the on-going success of the 2-metre fully autonomous and robot
 
 <figure class="half">
     <a href="/assets/LT2.png"></a>
+    <a href="/assets/LT2.png"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
