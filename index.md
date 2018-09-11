@@ -10,9 +10,7 @@ The New Robotic Telescope (NRT) is a Liverpool John Moores University project in
 
 Following on from the on-going success of the 2-metre fully autonomous and robotic Liverpool Telescope (LT), the NRT will be a 4-metre telescope, co-located with the LT on La Palma, designed for rapid-response, time-domain astronomy. The project is currently in the design phase, with an on-sky target date of 2023. A combination of light-weight mirror technology and advanced material science will allow the NRT to slew to any part of the sky and be observing a target within 30 seconds. 
 
-<figure class="half">
-    <a href="/assets/LT2.png"></a>
-    <a href="/assets/LT2.png"></a>
-    <figcaption>Caption describing these two images.</figcaption>
+<figure>
+  <img src="/assets/LT2.png" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
 </figure>
-
