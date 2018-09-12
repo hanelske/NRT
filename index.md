@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 ---
 
-The New Robotic Telescope (NRT) is a [Liverpool John Moores University](www.ljmu.ac.uk) project in collaboration with the Instituto de Astrofísica de Canarias (IAC) and the National Astronomical Research Institute of Thailand (NARIT). 
+The New Robotic Telescope (NRT) is a [Liverpool John Moores University](https://www.ljmu.ac.uk) project in collaboration with the Instituto de Astrofísica de Canarias (IAC) and the National Astronomical Research Institute of Thailand (NARIT). 
 
 ![image-center](/assets/LT_Lopez_crop_4_400.jpg){: .align-center}
 
