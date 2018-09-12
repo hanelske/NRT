@@ -6,15 +6,6 @@ sidebar:
   nav: "docs"
 ---
 
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/LT2.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
-
 The New Robotic Telescope (NRT) is a [Liverpool John Moores University](https://www.ljmu.ac.uk) project in collaboration with the [Instituto de Astrofísica de Canarias (IAC)](https://www.iac.es) and the [National Astronomical Research Institute of Thailand (NARIT)](http://www.narit.or.th/en/). 
 
 ![image-center](/assets/LT_Lopez_crop_4_400.jpg){: .align-center}
