@@ -4,6 +4,7 @@ layout: archive
 permalink: /news/
 author_profile: false
 comments: false
+toc: true
 ---
 
 # Latest Project News
