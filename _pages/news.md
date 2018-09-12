@@ -18,7 +18,7 @@ toc: true
 * 05 February 2018	CCI International Time Programme 2018-2019 Call for Proposals
 * 25 January 2018	New Robotic Telescope workshop held in Liverpool
 
-![NRT workshop photo](_pages/NRTW_group_2_400.png) 
+![NRT workshop photo](_pages/NRT_group_2_400.png) 
 
 NRT Workshop group photo. Left to right: Marco Lam, Iain Steele, Robin Leatherbarrow, Abigail Lewis, Paulo Lisboa, Ian Baker, Adrian McGrath, Phil James, Suparerk Aukkaravittayapun, Chris Copperwheat, Saran Poshyachinda, Juan Cozar, Christophe Buisset, Helen Jermak, Thirasak Panyaphirawat, Apirat Prasit, Carlos M Gutierrez, Ahmed Al Shamma’a. Credit: Marco Lam.
 
