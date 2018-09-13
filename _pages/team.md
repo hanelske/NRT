@@ -6,8 +6,8 @@ permalink: /team/
 author_profile: false
 comments: false
 gallery:
-    url : /assets/LT2.png
-    image_path: /assets/LT2.png
+    url : https://github.com/hanelske/NRT/
+    image_path: assets/LT2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
