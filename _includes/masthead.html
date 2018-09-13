@@ -3,8 +3,8 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
          <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-         <a class="site-title" href="{{ '/' | relative_url }}"><img src="/NRT/tree/master/assets/ljmu_logo_smol.png"></a>
-         <a class="site-title" href="{{ '/' | relative_url }}"><img src="/assets/logo-iac-smol.png"></a>
+         <a class="site-title" href="{{ '/' | absolute_url }}"><img src="/NRT/tree/master/assets/ljmu_logo_smol.png"></a>
+         <a class="site-title" href="{{ '/' | absolute_url }}"><img src="/assets/logo-iac-smol.png"></a>
          <a class="site-title" href="{{ '/' | relative_url }}"><img src="assets/narit-smol.png"></a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
