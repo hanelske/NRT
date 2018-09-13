@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 sidebar:
   nav: "docs"
-  header:
+header:
   image: assets/LT_Lopez_crop_4_400.jpg
 ---
 
