@@ -10,6 +10,14 @@ gallery:
     image_path: /assets/LT2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+    url : https://telescope.livjm.ac.uk
+    image_path: /assets/LT2.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+    url : https://telescope.livjm.ac.uk
+    image_path: /assets/LT2.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 
 {% include gallery %}
