@@ -9,7 +9,6 @@ gallery:
     image_path: /assets/LT2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 ---
 
