@@ -7,7 +7,7 @@ author_profile: false
 comments: false
 gallery:
     url : assets/LT2.png
-    image_path: assets/LT2.png
+    image_path: https://github.com/hanelske/NRT/tree/master/assets
     alt: "placeholder image 1"
     title: "Image 1 title caption"
     url : NRT/assets/LT2.png
