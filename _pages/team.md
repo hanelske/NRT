@@ -6,19 +6,19 @@ permalink: /team/
 author_profile: false
 comments: false
 gallery:
-  - url: /assets/LT2.png
+  - url: http://telescope.livjm.ac.uk/
     image_path: /assets/LT2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/LT2.png
+  - url: http://telescope.livjm.ac.uk/
     image_path: /assets/LT2.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/LT2.png
+  - url: http://telescope.livjm.ac.uk/
     image_path: /assets/LT2.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-  - url: /assets/LT2.png
+  - url: http://telescope.livjm.ac.uk/
     image_path: /assets/LT2.png
     alt: "placeholder image 4"
     title: "Image 4 title caption"
