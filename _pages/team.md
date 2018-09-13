@@ -7,7 +7,7 @@ author_profile: false
 comments: false
 gallery:
     url : https://github.com/hanelske/NRT/
-    image_path: assets/LT2.png
+    image_path: assets/LT_Lopez_crop_4_400.jpg
     alt: "placeholder image 1"
 ---
 
