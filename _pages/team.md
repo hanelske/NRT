@@ -6,7 +6,6 @@ permalink: /team/
 author_profile: false
 comments: false
 gallery:
-  - url: https://telescope.livjm.ac.uk/
     image_path: /assets/LT2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
