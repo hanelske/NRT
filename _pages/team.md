@@ -12,6 +12,8 @@ gallery:
 
 ---
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 The NRT design team consist of staff from LJMU and IAC. Below is a brief bio and photo of each of the team members.
 
 # LJMU
