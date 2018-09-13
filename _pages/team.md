@@ -12,19 +12,19 @@ The NRT design team consist of staff from LJMU and IAC. Below is a brief bio and
 # LJMU
 
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
+  - url: /assets/LT2.png
     image_path: /assets/LT2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
+  - url: /assets/LT2.png
     image_path: /assets/LT2.png
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
+  - url: /assets/LT2.png
     image_path: /assets/LT2.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
+  - url: /assets/LT2.png
     image_path: /assets/LT2.png
     alt: "placeholder image 4"
     title: "Image 4 title caption"
