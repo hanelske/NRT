@@ -10,6 +10,8 @@ gallery:
     image_path: assets/LT2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+header:
+  image: assets/LT2.png
 ---
 
 {% include gallery %}
