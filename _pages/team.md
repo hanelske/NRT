@@ -10,19 +10,6 @@ gallery:
     image_path: /assets/LT2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: http://telescope.livjm.ac.uk/
-    image_path: /assets/LT2.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: http://telescope.livjm.ac.uk/
-    image_path: /assets/LT2.png
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: http://telescope.livjm.ac.uk/
-    image_path: /assets/LT2.png
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 ---
