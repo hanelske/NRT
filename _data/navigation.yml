@@ -8,8 +8,8 @@ main:
     url: /team/
   - title: "News"
     url: /news/
-  - title: "LT" 
-    url: http://telescope.livjm.ac.uk/
+  - title: "Outreach" 
+    url: /NSO/
    
 #side bar
 docs:
