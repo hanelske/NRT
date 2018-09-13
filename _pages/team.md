@@ -9,10 +9,7 @@ gallery:
     image_path: /assets/LT2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
 ---
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 The NRT design team consist of staff from LJMU and IAC. Below is a brief bio and photo of each of the team members.
 
