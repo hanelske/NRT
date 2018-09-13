@@ -10,14 +10,6 @@ gallery:
     image_path: https://github.com/hanelske/NRT/tree/master/assets/LT2.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-    url : NRT/assets/LT2.png
-    image_path: NRT/assets/LT2.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-    url : NRT/assets/LT2.png
-    image_path: NRT/assets/LT2.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
 ---
 
 {% include gallery %}
