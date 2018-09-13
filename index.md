@@ -8,7 +8,7 @@ header:
   image: header_website.png
 ---
 
-With the New Robotic Telescope we aim to be on any visible target within 30 seconds of receiving a trigger. 
+* With the New Robotic Telescope we aim to be on any visible target within 30 seconds of receiving a trigger. 
 * This allows the NRT to be the fastest fully autonomous facility in the world. 
 * The 4-metre aperture mirror enables fainter follow-up of rapidly changing transients.
 {: .notice--info}
