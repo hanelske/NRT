@@ -8,7 +8,9 @@ header:
   image: header_website.png
 ---
 
-With the New Robotic Telescope we aim to be on any visible target within 30 seconds of receiving a trigger. This allows the NRT to be the fastest fully autonomous facility in the world. The 4-metre aperture mirror enables fainter follow-up of rapidly changing transients.
+With the New Robotic Telescope we aim to be on any visible target within 30 seconds of receiving a trigger. 
+*This allows the NRT to be the fastest fully autonomous facility in the world. 
+*The 4-metre aperture mirror enables fainter follow-up of rapidly changing transients.
 {: .notice--info}
 
 The New Robotic Telescope (NRT) is a [Liverpool John Moores University](https://www.ljmu.ac.uk) project in collaboration with the [Instituto de Astrofísica de Canarias (IAC)](https://www.iac.es) and the [National Astronomical Research Institute of Thailand (NARIT)](http://www.narit.or.th/en/). 
