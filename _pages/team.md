@@ -5,12 +5,6 @@ toc: true
 permalink: /team/
 author_profile: false
 comments: false
----
-
-The NRT design team consist of staff from LJMU and IAC. Below is a brief bio and photo of each of the team members.
-
-# LJMU
-
 gallery:
   - url: /assets/LT2.png
     image_path: /assets/LT2.png
@@ -30,6 +24,13 @@ gallery:
     title: "Image 4 title caption"
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+---
+
+The NRT design team consist of staff from LJMU and IAC. Below is a brief bio and photo of each of the team members.
+
+# LJMU
+
 
 ## Professor Iain Steele 
 **NRT Director**
