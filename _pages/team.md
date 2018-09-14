@@ -5,12 +5,7 @@ toc: true
 permalink: /team/
 author_profile: false
 comments: false
-gallery:
-    image: assets/LT_Lopez_crop_4_400.jpg
-    alt: "placeholder image 1"
 ---
-
-{% include gallery %}
 
 The NRT design team consist of staff from LJMU and IAC. Below is a brief bio and photo of each of the team members.
 
