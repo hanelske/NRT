@@ -6,7 +6,6 @@ permalink: /team/
 author_profile: false
 comments: false
 gallery:
-    url : https://github.com/hanelske/NRT/
     image: assets/LT_Lopez_crop_4_400.jpg
     alt: "placeholder image 1"
 ---
