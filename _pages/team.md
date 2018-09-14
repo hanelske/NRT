@@ -1,6 +1,6 @@
 ---
 title: "Meet the Team"
-layout: single
+layout: splash
 toc: true
 permalink: /team/
 author_profile: false
