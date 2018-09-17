@@ -15,7 +15,6 @@ Below is a brief bio and photo of each of the team members.
 
 # LJMU
 
-
 # Professor Iain Steele 
 **NRT Director**
 
