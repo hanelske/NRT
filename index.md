@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 header:
   video:
-    id: v=bCWoZCOJXIY
+    id: bCWoZCOJXIY
     provider: youtube
 ---
 
