@@ -13,7 +13,7 @@ The key science drivers are time-domain sources: highly variable and transient o
 
 This page summarises a variety of science drivers for the NRT. Full details can be found in the following publications:
 
-![C. Copperwheat et. al, 2015](https://arxiv.org/abs/1410.1731)
+[C. Copperwheat et. al, 2015](https://arxiv.org/abs/1410.1731)
 
 [C. Copperwheat et. al, 2014](https://arxiv.org/abs/1408.1403)
 
