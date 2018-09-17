@@ -11,6 +11,12 @@ header:
 
 The key science drivers are time-domain sources: highly variable and transient objects whose cadence, brightness, predictability and origin are often unknown prior to discovery. The source of their variable and tranisent nature is either intrinsic (such as the cataclysmic death of a star in a supernova explosion) or extrinsic (the transit of an exoplanet past its host star). These sources are notoriously difficult to follow-up. In particular the design of the NRT is ideal for the study of sources such as supernovae, gamma-ray bursts, electromagnetic counterparts to gravitational wave sources, exoplanets, Gaia sources, fast-radio bursts, and new and currently unknown sources that will be discovered in the coming years. 
 
+This page summarises a variety of science drivers for the NRT. Full details can be found in the following publications:
+
+![C. Copperwheat et. al, 2015](https://arxiv.org/abs/1410.1731)
+
+[C. Copperwheat et. al, 2014](https://arxiv.org/abs/1408.1403)
+
 In particular the NRT will carry out 
 * ultra-rapid (<30 seconds) spectroscopic and polarimetric follow-up of electromagnetic counterparts of gravitational wave (aLIGO/Virgo) and neutrino (IceCUBE/ANTARES) sources and new radio (e.g. LOFAR/SUPERB) and high energy (e.g. SVOM, Fermi, Einstein Probe) transients, 
 * rapid (<1hr) spectroscopy and polarimetry of (e.g. LSST/ZTF) supernovae (SNe) to explore the shock-breakout phase and find spectral signatures of the progenitor, and of recurrent novae (the supposed progenitors of Type Ia SNe), 
