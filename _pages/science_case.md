@@ -9,8 +9,6 @@ header:
   image: little_dumbbell.jpg
 ---
 
-Building on the success of the fully autonomous and robotic Liverpool Telescope, the design of its 4 metre successor is underway. The focus is on fast follow-up of rapidly varying and fading transients, including gravitational wave candidates and new and exciting objects which are anticipated to be discovered in the new upcoming era of survey telescopes. The next decade will see the commissioning of many major international projects, opening new windows on the time-variable universe. They will make it possible to search wider areas of the sky than ever before, and as such discover new classes of transient and time-variable sources at optical, radio and high-energy Gamma-ray wavelengths and exploiting multimessenger and particle physics too. There is a critical need for a new 4.0m optical follow-up facility to rapidly respond to such discoveries and make detailed photometric, spectroscopic and polarimetric observations.
-
 # Science drivers
 
 The key science drivers are time-domain sources, highly variable and transient objects that are notoriously difficult to follow-up. In particular the design of the NRT is ideal for the study of sources such as supernovae, gamma-ray bursts, electromagnetic counterparts to gravitational wave sources, exoplanets, Gaia sources, fast-radio bursts, and new and currently unknown sources that will be discovered. 
@@ -20,6 +18,7 @@ In particular the NRT will carry out
 * rapid (<1hr) spectroscopy and polarimetry of (e.g. LSST/ZTF) supernovae (SNe) to explore the shock-breakout phase and find spectral signatures of the progenitor, and of recurrent novae (the supposed progenitors of Type Ia SNe), 
 * timely (<24 hours) and time resolved spectroscopy of the evolution of the afor mentioned sources, plus galactic transients such as outbursting binary X-ray transients and eruptive Young Stellar Objects (YSOs) detected by VISTA/Pan-STARRS/LSST, and
 * simultaneous spectroscopic and polarimetric montioring of pre scheduled observations of sources such as blazars (e.g. with Fermi, CTA) and changing-look AGN.
+{: .notice--info}
 
 #  Survey Followup
 
