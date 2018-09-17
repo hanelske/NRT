@@ -14,7 +14,7 @@ toc: true
 * 25 January 2018:	New Robotic Telescope workshop held in Liverpool
 
 ![NRT workshop photo](NRTW_group_2_400.png){: .align-center}
-<figcaption> NRT Workshop group photo. Left to right: Marco Lam, Iain Steele, Robin Leatherbarrow, Abigail Lewis, Paulo Lisboa, Ian Baker, Adrian McGrath, Phil James, Suparerk Aukkaravittayapun, Chris Copperwheat, Saran Poshyachinda, Juan Cozar, Christophe Buisset, Helen Jermak, Thirasak Panyaphirawat, Apirat Prasit, Carlos M Gutierrez, Ahmed Al Shamma’a. Credit: Marco Lam. </figcaption>
+<figcaption> NRT Workshop group photo. Left to right: Marco Lam, Iain Steele, Robin Leatherbarrow, Abigail Lewis, Paulo Lisboa, Ian Baker, Adrian McGrath, Phil James, Suparerk Aukkaravittayapun, Chris Copperwheat, Saran Poshyachinda, Juan Cozar, Christophe Buisset, Helen Jermak, Thirasak Panyaphirawat, Apirat Prasit, Carlos Gutierrez, Ahmed Al Shamma’a. Credit: Marco Lam. </figcaption>
 
 2017
 
@@ -30,4 +30,4 @@ toc: true
 2014
 
 * 14 November 2014: Talk at RAS Specialist Discussion Meeting on Time Domain Astronomy with LT and LT2
-* 27 June 2013: Launch of LT2 website
+
