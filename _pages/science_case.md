@@ -11,17 +11,22 @@ header:
 
 The key science drivers are time-domain sources: highly variable and transient objects that are notoriously difficult to follow-up. In particular the design of the NRT is ideal for the study of sources such as supernovae, gamma-ray bursts, electromagnetic counterparts to gravitational wave sources, exoplanets, Gaia sources, fast-radio bursts, and new and currently unknown sources that will be discovered in the coming years. 
 
-In particular the NRT will carry out * ultra-rapid (<30 seconds) spectroscopic and polarimetric follow-up of electromagnetic counterparts of gravitational wave (aLIGO/Virgo) and neutrino (IceCUBE/ANTARES) sources and new radio (e.g. LOFAR/SUPERB) and high energy (e.g. SVOM, Fermi, Einstein Probe) transients, 
+In particular the NRT will carry out {: .notice--info}
+* ultra-rapid (<30 seconds) spectroscopic and polarimetric follow-up of electromagnetic counterparts of gravitational wave (aLIGO/Virgo) and neutrino (IceCUBE/ANTARES) sources and new radio (e.g. LOFAR/SUPERB) and high energy (e.g. SVOM, Fermi, Einstein Probe) transients, 
 * rapid (<1hr) spectroscopy and polarimetry of (e.g. LSST/ZTF) supernovae (SNe) to explore the shock-breakout phase and find spectral signatures of the progenitor, and of recurrent novae (the supposed progenitors of Type Ia SNe), 
 * timely (<24 hours) and time resolved spectroscopy of the evolution of the afor mentioned sources, plus galactic transients such as outbursting binary X-ray transients and eruptive Young Stellar Objects (YSOs) detected by VISTA/Pan-STARRS/LSST, and
 * simultaneous spectroscopic and polarimetric montioring of pre scheduled observations of sources such as blazars (e.g. with Fermi, CTA) and changing-look AGN.
 {: .notice--info}
 
-#  Survey Followup
+# Explosive transient trigger response
+
+The Liverpool Telescope's autonomous and robotic follow-up has been key for Gamma-ray burst science. The automated response to Swift triggers, without human intervention, allows the LT to take data within minutes of outburst. For the NRT we want to be on target within 30 seconds of a trigger, allowing a new generation of tranisent objects to be discovered.
+
+Robotic Telescopes like the NRT are uniquely suited to the task of transient follow-up since they can flexibly and automatically react to new discoveries in real time. They are quick to react to the most exciting targets: in the era of fast discovery, the follow-up must proceed with a similar alacrity. The LT is currently a world-leading facility for time-domain rapid response, but the sensitivity of the new discovery facilities will require a larger aperture facility.
+
+#  Survey follow-up
 
 The flagship of the next generation of sky surveys will be the Large Synoptic Sky Survey (LSST). The advantages of LSST are cadence and depth, meaning it will probe a new 'faint and fast' discovery regime. New northern hemisphere facilities such as Zwicky Transient Facility (ZTF) also offer sensitivity and field-of-view improvements over their predecessors, and will target this new regime. There is a critical need for follow-up capacity to provide the spectroscopic classifications and multiband light curves required for exploitation of the discoveries of the survey telescopes. Moreover, dedicated follow-up telescopes are required as the rate of targets-of-opportunity will be too high to rely on priority overrides on existing facilities (which would interriupt their existing science programmes). The PESSTO (Public ESO Spectroscopic Survey for Transient Objects) programme demonstrated the value of dedicating large amounts of telescope time to transient follow-up. In the new era, NTT/SOXS will fill this role in the Southern hemisphere, and NRT will be the ideal Northern counterpart. 
-
-Robotic Telescopes like the NRT are uniquely suited to the task of transient follow-up since they can flexibly and automatically react to new discoveries in real time. They are quick to react to the most exciting targets: in the era of fast discovery, the follow-up must proceed with a similar alacrity. The LT is currently a world-leading facility for time-domain rapid response, but the sensitivity of the new discovery facilities will require a larger aperture facility; hence the need for the NRT.
 
 The next decade will see the exploration of the time-domain sky in different electromagnetic regimes via facilities such as the Cherenkov Telescope Array (CTA; the northern component of which will be co-located with the NRT on La Palma). We are also starting to explore the sky in the multimessenger era, in which electromagnetic counterparts are pursued for sources discovered via their gravitational wave or neutrino emission. The discovery potential via the use of non-electromagnetic messengers for source detection is immense, and the campaigns around the detection of gravitational wave emission from the GW170807 neutron star merger and the neutrino detection from the blazar TXS 0506+056 highlight the importance of EM follow-up campaigns for verification and elucidation of the event.
 
