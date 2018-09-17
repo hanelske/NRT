@@ -5,9 +5,7 @@ author_profile: true
 sidebar:
   nav: "docs"
 header:
-  video:
-    id: bCWoZCOJXIY
-    provider: youtube
+  image: website_header2.png
 ---
 
 
