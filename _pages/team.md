@@ -63,7 +63,7 @@ I finished my PhD entitled the 'Structure and Evolution of Classical Nova Shells
 # Miguel Ángel Torres Gil
 **NRT Systems Engineer**
 
-![Asier](Miguel.jpg)
+![Asier](Miguel-smol.jpg)
 
 I am a computer engineer with a great affinity to hardware and electronics. I have worked in a variety of different R&D projects, from asistive technologies for blind people to unmanned solar airplanes, wind tunnels and assistant robots. I have also worked a lot on prototyping and researching involving mechanics, electronics and software. In the NRT project I have the oportunity of participating in a bigger project and develop my skills as a systems engineer. The NRT is an exciting project where I am sure I will develop new skills and learn a lot from excelent engineers and scientists.
   
@@ -71,7 +71,7 @@ I am a computer engineer with a great affinity to hardware and electronics. I ha
 # Asier Oria Carreras 
 **Mechanical Engineer**
 
-![Asier](Asier.jpg)
+![Asier](Asier-smol.jpg)
 
 I am a mechanical engineer with strong interest in R&D projects currently working as part of the IAC New Robotic Telescope design team.
 I have previous experience in ground astrophysical instrumentation projects which were by far smaller than a 4m-class telescope.
@@ -80,7 +80,7 @@ For this reason I am willing to learn as much as possible from this exciting new
 # Juan José Sanabria Cumbreño 
 **Software Engineer**
 
-![JuanJose](JuanJose.jpg)
+![JuanJose](JuanJose-smol.jpg)
 
 I have been working for years as software engineer in Madrid in different projects and companies. I moved to Tenerife where I became telescope operator for two of the night time telescopes placed in the Teide Observatory. In addition, in the IAC, I have worked as an engineer designing software for scientific instrumentation, data analysis and telescope control. I am an amateur astronomer and I like to observe the night sky regularly with the naked eye and binoculars.
 
