@@ -9,12 +9,9 @@ header:
   image: little_dumbbell.jpg
 ---
 
-# Science drivers
+The key science drivers are time-domain sources: highly variable and transient objects that are notoriously difficult to follow-up. In particular the design of the NRT is ideal for the study of sources such as supernovae, gamma-ray bursts, electromagnetic counterparts to gravitational wave sources, exoplanets, Gaia sources, fast-radio bursts, and new and currently unknown sources that will be discovered in the coming years. 
 
-The key science drivers are time-domain sources, highly variable and transient objects that are notoriously difficult to follow-up. In particular the design of the NRT is ideal for the study of sources such as supernovae, gamma-ray bursts, electromagnetic counterparts to gravitational wave sources, exoplanets, Gaia sources, fast-radio bursts, and new and currently unknown sources that will be discovered. 
-
-In particular the NRT will carry out 
-* ultra-rapid (<30 seconds) spectroscopic and polarimetric follow-up of electromagnetic counterparts of gravitational wave (aLIGO/Virgo) and neutrino (IceCUBE/ANTARES) sources and new radio (e.g. LOFAR/SUPERB) and high energy (e.g. SVOM, Fermi, Einstein Probe) transients, 
+In particular the NRT will carry out * ultra-rapid (<30 seconds) spectroscopic and polarimetric follow-up of electromagnetic counterparts of gravitational wave (aLIGO/Virgo) and neutrino (IceCUBE/ANTARES) sources and new radio (e.g. LOFAR/SUPERB) and high energy (e.g. SVOM, Fermi, Einstein Probe) transients, 
 * rapid (<1hr) spectroscopy and polarimetry of (e.g. LSST/ZTF) supernovae (SNe) to explore the shock-breakout phase and find spectral signatures of the progenitor, and of recurrent novae (the supposed progenitors of Type Ia SNe), 
 * timely (<24 hours) and time resolved spectroscopy of the evolution of the afor mentioned sources, plus galactic transients such as outbursting binary X-ray transients and eruptive Young Stellar Objects (YSOs) detected by VISTA/Pan-STARRS/LSST, and
 * simultaneous spectroscopic and polarimetric montioring of pre scheduled observations of sources such as blazars (e.g. with Fermi, CTA) and changing-look AGN.
