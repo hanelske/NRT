@@ -5,8 +5,11 @@ author_profile: true
 sidebar:
   nav: "docs"
 header:
-  image: website_header2.png
+  video:
+    id: v=bCWoZCOJXIY
+    provider: youtube
 ---
+
 
 * 4-metre diameter primary mirror.
 * Rapid slewing to targets within 30 seconds of receipt of trigger.
