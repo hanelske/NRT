@@ -22,7 +22,7 @@ In particular the NRT will carry out
 
 ![](ESO_scopes.jpg){: .align-center}
 
-The Liverpool Telescope's autonomous and robotic follow-up has been key for Gamma-ray burst science. The automated response to Swift triggers, without human intervention, allows the LT to take data within minutes of outburst. For the NRT we want to be on target within 30 seconds of a trigger, allowing a new generation of tranisent objects to be discovered.
+The Liverpool Telescope's autonomous and robotic follow-up has been key for Gamma-ray burst science. The rapidly fading nature of short Gamma-ray bursts means that traditional telescopes struggle to catch the source before it has become too faint. The automated response to Swift triggers, without human intervention, allows the LT to take data within minutes of outburst. For the NRT we aim to be on target, taking observations, within 30 seconds of a trigger. This will allow a new generation of tranisent objects to be discovered.
 
 Robotic Telescopes like the NRT are uniquely suited to the task of transient follow-up since they can flexibly and automatically react to new discoveries in real time. They are quick to react to the most exciting targets: in the era of fast discovery, the follow-up must proceed with a similar alacrity. The LT is currently a world-leading facility for time-domain rapid response, but the sensitivity of the new discovery facilities will require a larger aperture facility.
 
