@@ -13,7 +13,7 @@ date: 2014-11-18T11:34:04-05:00
 This is testing out Liquid.
 
 <video width="480" height="320" controls="controls">
-  <source src="myfile.mp4" type="video/mp4">
+  <source src="NRT_concept_01_ao_2018_apuntado_1920x1080_h264_4_6.mp4" type="video/mp4">
 </video>
 
 # National Schools' Observatory
