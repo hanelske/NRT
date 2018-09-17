@@ -1,3 +1,19 @@
-# National Schools' Observatory
+---
+layout: post
+title: "MP4 Video"
+modified:
+categories: 
+excerpt:
+tags: []
+image:
+  feature:
+date: 2014-11-18T11:34:04-05:00
+---
 
-<iframe src="https://www.youtube.com/watch?v=1TgS6u3pS0E" width="560" height="315" frameborder="0"> </iframe>
+This is testing out Liquid.
+
+<video width="480" height="320" controls="controls">
+  <source src="myfile.mp4" type="video/mp4">
+</video>
+
+# National Schools' Observatory
