@@ -26,7 +26,7 @@ Robotic Telescopes like the NRT are uniquely suited to the task of transient fol
 
 #  Survey follow-up
 
-![NRT workshop photo](ESO_scopes.jpg){: .align-center}
+![](ESO_scopes.jpg){: .align-center}
 
 The flagship of the next generation of sky surveys will be the Large Synoptic Sky Survey (LSST). The advantages of LSST are cadence and depth, meaning it will probe a new 'faint and fast' discovery regime. New northern hemisphere facilities such as Zwicky Transient Facility (ZTF) also offer sensitivity and field-of-view improvements over their predecessors, and will target this new regime. There is a critical need for follow-up capacity to provide the spectroscopic classifications and multiband light curves required for exploitation of the discoveries of the survey telescopes. Moreover, dedicated follow-up telescopes are required as the rate of targets-of-opportunity will be too high to rely on priority overrides on existing facilities (which would interriupt their existing science programmes). The PESSTO (Public ESO Spectroscopic Survey for Transient Objects) programme demonstrated the value of dedicating large amounts of telescope time to transient follow-up. In the new era, NTT/SOXS will fill this role in the Southern hemisphere, and NRT will be the ideal Northern counterpart. 
 
