@@ -6,10 +6,8 @@ permalink: /science_case/
 author_profile: false
 comments: false
 header:
-  image: Antennae_gal.png
+  image: 15640727497_d9263ee46c_o.jpg
 ---
-
-![text about an image](15640727497_d9263ee46c_o.jpg)
 
 Building on the success of the fully autonomous and robotic Liverpool Telescope, the design of its 4 metre successor is underway. The focus is on fast follow-up of rapidly varying and fading transients, including gravitational wave candidates and new and exciting objects which are anticipated to be discovered in the new upcoming era of survey telescopes. The next decade will see the commissioning of many major international projects, opening new windows on the time-variable universe. They will make it possible to search wider areas of the sky than ever before, and as such discover new classes of transient and time-variable sources at optical, radio and high-energy Gamma-ray wavelengths and exploiting multimessenger and particle physics too. There is a critical need for a new 4.0m optical follow-up facility to rapidly respond to such discoveries and make detailed photometric, spectroscopic and polarimetric observations.
 
