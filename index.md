@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "docs"
 header:
-  image: website_header_with_text.png
+  image: website_header2.png
 ---
 
 * With the New Robotic Telescope we aim to be on any visible target within 30 seconds of receiving a trigger. 
