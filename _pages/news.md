@@ -12,7 +12,7 @@ toc: true
 * 25 June 2018	Three Job Vacancies for New Robotic Telescope
 * 25 January 2018	New Robotic Telescope workshop held in Liverpool
 
-![NRT workshop photo](NRTW_group_2_400.png)
+![NRT workshop photo](NRTW_group_2_400.png){: .align-center}
 
 NRT Workshop group photo. Left to right: Marco Lam, Iain Steele, Robin Leatherbarrow, Abigail Lewis, Paulo Lisboa, Ian Baker, Adrian McGrath, Phil James, Suparerk Aukkaravittayapun, Chris Copperwheat, Saran Poshyachinda, Juan Cozar, Christophe Buisset, Helen Jermak, Thirasak Panyaphirawat, Apirat Prasit, Carlos M Gutierrez, Ahmed Al Shamma’a. Credit: Marco Lam.
 
