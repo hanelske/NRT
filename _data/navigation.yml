@@ -11,5 +11,15 @@ main:
   - title: "Outreach" 
     url: /NSO/
    
-
-    
+   #side bar
+docs:
+  - title:  "Quick Links"
+    children:
+      - title: "About"
+        url: /telescope/
+      - title: "Science"
+        url: /science_case/
+      - title: "Team"
+        url: /team/
+      - title: "News"
+        url: /news/
