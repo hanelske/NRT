@@ -36,8 +36,29 @@ The next decade will see the exploration of the time-domain sky in different ele
 
 Facilities such as CTA, aLIGO and IceCube share a common problem for electromagnetic follow-up: large positional uncertainty. The problem is distinguishing the true counterpart from the large numbers of unrelated candidates in a sky region many square degrees in size. GW170807 highlighted the importance of identifying the counterpart rapidly, since the first 12 hours showed a very rapid evolution in the transient spectrum, and these early observations were key to the physical understanding of the event. The rapid colour evolution of this source in the early hours was very distinct from what has previously been observed in supernovae, making these early time measurements vital for counterpart identification in this field. NRT will complement new discovery facilities such as the UK-led GOTO project which will also be on La Palma. Automated cooperation between these two robotic facilities would provide colours and spectroscopic classifications within minutes of candidate discovery.
 
+Southern
+PESSTO
+SOXS
+SkyMapper
+
+LSST
+ASKAP/MEERKAT/SKA
+
+Northern
+ZTF (iPTF, PTF)
+PanSTARRS
+SNLS
+
+LOFAR
+
+Both
+CTA (high energy Gamma-rays)
+Icecube
+eROSITA
+aLIGO/Virgo
+
 # Exoplanets 
-There are two key areas in which the NRT can make a leading contribution. Firstly, the next generation of satellite surveys (e.g. TESS, PLATO) will find a zoo of new exoplanets which will need ground-based characterization. The remit of such surveys is to specifically target bright host stars to maximise the potential for follow-up, and this combined with the large aperture of NRT provides the potential for a wider variety of time variable signatures to be explored for large numbers of exoplanets, such as transit spectroscopy and polarization, detection of debris disks. The characterisation of the TESS/PLATO population is vital for the target selection for future missions such as ARIEL. As is happening with transient science, the PLATO era will drive a movement in the exoplanetary field away from single object studies towards more population driven work. This also means that exoplanet follow-up on NRT will combine well with transient studies: an available transit observation will be easily found whenever there isn’t a target of opportunity worth pursuing.
+The next generation of satellite surveys (e.g. TESS, PLATO) will find a zoo of new exoplanets, which will require ground-based characterization. These surveys target bright host stars to maximise the potential for follow-up, this provides a wider variety of time variable signatures to be explored for large numbers of exoplanets. The spectroscopic and polarimetric capabilities of the NRT can be exploited to explore the debris disks of these planetary systems. 
 
 Alongside the discovery of large samples of exoplanets around bright stars, a secondary aim of the exoplanetary community has been to specifically target small stars. The motivation here is the discovery of Earth-sized worlds, and it has been recognised that the transit depth for an Earth sized exoplanet around an M-dwarf is the same as a hot Jupiter orbiting a G-dwarf. The strategy of targeting late type stars has paid of immensely with the discovery of an Earth sized world around Proxima Centauri, and the characterisation of seven such planets in the TRAPPIST-1 system, a science programme in which the LT played and continues to play a prominent role. The problem here is that the host stars are extremely faint: TRAPPIST-1 has an Mv=18.4 despite being only 12 parsecs away. It is inevitable that future work in this direction will involve even fainter targets, driving the need for the larger aperture NRT for future follow-up programmes.
 
