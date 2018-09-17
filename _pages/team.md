@@ -9,7 +9,9 @@ header:
   image: Antennae_gal.jpg
 ---
 
-The NRT design team consist of staff from LJMU and IAC. Below is a brief bio and photo of each of the team members.
+The NRT design team consists of staff from Liverpool John Moores University (LJMU), the Instituto de Astrofisica de Canarias (IAC) and the National Astronomical Research Institute of Thailand (NARIT). 
+
+Below is a brief bio and photo of each of the team members.
 
 # LJMU
 
