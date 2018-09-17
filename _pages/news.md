@@ -20,7 +20,7 @@ toc: true
 
 2016
 * 20 June 2016	Liverpool Telescope Involved in Gravitational Wave Followup Campaign
-* 04 April 2016: Memorandum Of Understanding signed between LJMU and Instituto de Astrofisica de Canarias (IAC). Articles featured in LJMU news, IAC Press, and BBC Online.
+* 4 April 2016: Memorandum Of Understanding signed between LJMU and Instituto de Astrofisica de Canarias (IAC). Articles featured in LJMU news, IAC Press, and BBC Online.
 
 2015
 
