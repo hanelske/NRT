@@ -5,6 +5,10 @@ permalink: /news/
 author_profile: false
 comments: false
 toc: true
+header:
+    video: 
+      id: 73g7r3fjHAM
+      provider: youtube
 ---
 
 2018
