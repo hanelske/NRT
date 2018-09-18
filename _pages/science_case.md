@@ -8,7 +8,7 @@ comments: false
 header:
   video:
     id: 290461432
-    source: vimeo
+    provider: vimeo
 ---
 
 The key science drivers for the NRT are time-domain sources: highly variable and transient objects whose cadence, brightness, predictability and origin are often unknown prior to discovery. The source of their variable and tranisent nature is either intrinsic (such as the cataclysmic death of a star in a supernova explosion) or extrinsic (the transit of an exoplanet past its host star). These sources are notoriously difficult to follow-up. In particular the design of the NRT is ideal for the study of sources such as supernovae, gamma-ray bursts, electromagnetic counterparts to gravitational wave sources, exoplanets, Gaia sources, fast-radio bursts, and new and currently unknown sources that will be discovered in the coming years. 
