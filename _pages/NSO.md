@@ -1,4 +1,13 @@
-* 4-metre diameter primary mirror.
-* Rapid slewing to targets within 30 seconds of receipt of trigger.
-* To be located on La Palma, Canary Islands.
-{: .notice--info}
+---
+title: "Outreach and Engagement"
+layout: splash
+toc: true
+permalink: /NSO/
+author_profile: false
+comments: false
+header:
+  image: Antennae_gal.png
+---
+
+
+Test text
