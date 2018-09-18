@@ -15,3 +15,14 @@ docs:
         url: /team/
       - title: "News"
         url: /news/
+
+---
+title:  "Science Case"
+layout: single
+toc: true
+permalink: /science_case/
+author_profile: false
+comments: false
+header:
+  image: little_dumbbell.jpg
+---
