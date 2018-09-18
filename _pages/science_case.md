@@ -1,5 +1,12 @@
 ---
+---
+title:  "Science Case"
+
 layout: post
+toc: true
+permalink: /science_case/
+author_profile: false
+comments: false
 title: "MP4 Video"
 modified:
 categories: 
