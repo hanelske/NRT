@@ -1,7 +1,5 @@
 ---
----
 title:  "Science Case"
-
 layout: post
 toc: true
 permalink: /science_case/
