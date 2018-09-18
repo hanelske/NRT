@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Science"
-    url: /science_case/
   - title: "About"
     url: /telescope/
+  - title: "Science"
+    url: /science_case/
   - title: "Team"
     url: /team/
   - title: "News"
@@ -15,10 +15,10 @@ main:
 docs:
   - title:  "Quick Links"
     children:
-      - title: "Science"
-        url: /science_case/
       - title: "About"
         url: /telescope/
+      - title: "Science"
+        url: /science_case/
       - title: "Team"
         url: /team/
       - title: "News"
