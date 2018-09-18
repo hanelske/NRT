@@ -1,6 +1,6 @@
 ---
 title:  "Latest project news"
-layout: archive
+layout: single
 permalink: /news/
 author_profile: false
 comments: false
