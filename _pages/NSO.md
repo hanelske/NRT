@@ -19,4 +19,6 @@ Many of the images requested by school children have been enhanced by astrophoto
 
 ![image-center](bubble.jpg){: .align-center}
 
-The Schools' Observatory also run a variety of outreach seminars, workshops and events across the UK; with the LT being represented at a variety of exciting functions including the RHS Chelsea Flower Show, The Big Brownie Birthday Bash, Cosford Air Show and the Bluedot music festival at Jodrell Bank.
+The Schools' Observatory also run a variety of outreach seminars, workshops and events across the UK; with the LT being represented at a variety of exciting functions including the RHS Chelsea Flower Show, The Big Brownie Birthday Bash, Cosford Air Show and the Bluedot music festival at Jodrell Bank. 
+
+## NRT outreach and engagement
