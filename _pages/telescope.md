@@ -4,6 +4,7 @@ layout: single
 permalink: /telescope/
 author_profile: false
 comments: false
+toc: true
 header:
     video: 
       id: 290461432
@@ -17,15 +18,19 @@ Building on the success of the fully autonomous and robotic [Liverpool Telescope
 
 ![image-center](NRT_side_view.png){: .align-center}
 
-The NRT is designed for rapid follow-up of transient objects (see [Science Case](science_case.md) for full details). The 4 metre diameter mirror allows the exploration of fainter sources and shorter exposure times (and thus increased cadence monitoring) of variable objects.
+The NRT is designed for rapid follow-up of transient objects (see the [Science Case](science_case.md) for full details). The 4-metre diameter mirror will enable the exploration of fainter sources and shorter exposure times (and thus increased cadence monitoring) of transient and variable objects.
 
-The baseline optical design that has been developed for the 4 metre facility is a Ritchey-Chrétien telescope with a 4 metre primary mirror of focal ratio = f7.5. The design uses an f1.75 primary mirror and a back focal distance of 2.5m; allowing sufficient optical path length to provide possible Nasmyth (along with Cassegrain) foci and to allow for the mechanics of the tube, mirror support and instrumentation. The mirror design is still in discussion, with 6-segment (with spare) and monolithic designs having a variety of advantages and disadvantages. 
+The baseline optical design that has been developed for the facility is a Ritchey-Chrétien telescope with a 4-metre primary mirror of focal ratio = f7.5. The design uses an f1.75 primary mirror and a back focal distance of 2.5m; allowing sufficient optical path length to provide possible Nasmyth (along with Cassegrain) foci and to allow for the mechanics of the tube, mirror support and instrumentation. The mirror design is still in discussion, with 6-segment (plus spare) and monolithic designs having a variety of advantages and disadvantages. 
 
 ## Mirror design
 
 ![image-center](petalvshexvscirc_seg.png){: .align-center}
 
-A 6-segment hexagonal or petal design would allow easier, more regular maintenance, less down-time and are lighter than monolithic mirrors. They require complicated software to co-align or co-phase the mirrors, such technology has never been exploited fully autonomously. The mirror supports required to accurately align/phase the mirrors also add additional weight, which may result in a segmented design being comparative in weight to a monolithic mirror (with simpler mirror support system). In addition, the rapid slew of the telescope may require more frequent mirror alignment/phasing, which could increase overheads for each observation. The key driver of the NRT is to be first on target and taking data, this is at the core of our design decision making process.
+A 6-segment hexagonal or petal design would allow easier removal of segments, more regular maintenance, less down-time and are lighter than a monolithic mirror. Seven identical segments would be used in rotation, allowing the telescope to continue observing during recoating without needing to go offline. A monolithic mirror would also be a single point of failure; if it were to be damaged in the removal/recoating process there is no back-up. A monolithic mirror ideally requires a crane fixed to the dome for removal. The current LT enclosure does not allow for a fixed crane, so an external crane is required.
+
+The monolithic design of course offers the simplest route to excellent image quality, as no phasing or co-aligning is required. Without the gaps between segments, it is possible to explore the Infrared without 
+
+Segmented mirrors require complicated software to co-align or co-phase the mirrors, such technology has never been exploited fully autonomously and thus poses new challenges. The mirror supports required to accurately align/phase the mirrors also add additional weight, which may result in a segmented design being comparative in weight to a monolithic mirror (which has a simpler mirror support system). In addition, the rapid slew of the telescope may require more frequent mirror alignment/phasing, which could increase overheads for each observation, although the mechanical challenges of rapidly slewing a 4-metre monolith mirror are substantial. The key driver of the NRT is to rapidly acquire the target and obtain good data as quickly as possible. This aim is at the core of our design decision making process.
 
 ## Enclosure design
 
