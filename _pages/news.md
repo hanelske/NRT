@@ -18,7 +18,7 @@ header:
 
 ## 2016
 * 20 June 2016:	[Liverpool Telescope Involved in Gravitational Wave Followup Campaign](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20160620)
-* 7 April 2016: [Memorandum Of Understanding signed between LJMU and Instituto de Astrofisica de Canarias (IAC). Articles featured in LJMU news, IAC Press, and BBC Online.](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20160407)
+* 7 April 2016: [Memorandum Of Understanding signed between LJMU and Instituto de Astrofisica de Canarias (IAC)](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20160407)
 
 ## 2015
 * 27 March 2015: [The LT draws in the crowds at StarGazing Live 2015](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20150327)
