@@ -12,8 +12,7 @@ header:
 ---
 
 ## 2018
-* 1 October 2018: New DevOps position starts at LJMU
-* 25 June 2018:	Three Job Vacancies for New Robotic Telescope
+* 25 June 2018:	[Three Job Vacancies for New Robotic Telescope](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20180625)
 * 25 January 2018:	New Robotic Telescope workshop held in Liverpool
 
 ## 2017
