@@ -28,4 +28,6 @@ A 6-segment hexagonal or petal design would allow easier, more regular maintenan
 
 ## Enclosure design
 
-The iconic clamshell enclosure of the Liverpool Telescope allows rapid slewing across the sky, without waiting for dome rotation, it also removes any effects from dome seeing. It does, however, leave the telescope vulnerable to wind shake, and delicate instrumentation housed on the telescope Cassegrain can be exposed to Calima. For the new facility the design team are exploring both dome and enclosure structures, allowing the telescope to slew across the sky to be on target within 30 seconds.
+![image-center](15640727497_d9263ee46c_o.jpg){: .align-center}
+
+The iconic clamshell enclosure of the Liverpool Telescope allows the telescope to rapidly slew across the sky arriving at the target of interest within minutes, without waiting for dome rotation, it also removes any effects from dome seeing. It does, however, leave the telescope vulnerable to wind shake, and delicate instrumentation housed on the telescope Cassegrain can be exposed to Calima (the hot, dry dust that comes from the Sahara). For the new facility the design team are exploring the possibilities of dome or enclosure structures. 
