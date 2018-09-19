@@ -4,6 +4,8 @@ main:
     url: /telescope/
   - title: "Science"
     url: /science_case/
+  - title: "Location" 
+    url: /site/
   - title: "Team"
     url: /team/
   - title: "News"
@@ -19,6 +21,8 @@ docs:
         url: /telescope/
       - title: "Science"
         url: /science_case/
+      - title: "Location" 
+        url: /site/
       - title: "Team"
         url: /team/
       - title: "News"
