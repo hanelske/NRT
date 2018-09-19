@@ -1,6 +1,6 @@
 ---
 title: "Outreach and Engagement"
-layout: splash
+layout: single
 toc: true
 permalink: /NSO/
 author_profile: false
@@ -22,3 +22,5 @@ Many of the images requested by school children have been enhanced by astrophoto
 The Schools' Observatory also run a variety of outreach seminars, workshops and events across the UK; with the LT being represented at a variety of exciting functions including the RHS Chelsea Flower Show, The Big Brownie Birthday Bash, Cosford Air Show and the Bluedot music festival at Jodrell Bank. 
 
 ## NRT outreach and engagement
+
+Outreach and engagment has been a core focus of the Liverpool Telescope since the beginning and this will continue with the New Robotic Telescope project. With more time being made available for the use of children worldwide through the Schools' Observatory, we hope to make the global impact of the NRT and LT a key driver over the lifetime of the project. The wide-field capabilities of the future simplified LT will allow stunning images of the universe to be taken by children the world over, with the aim to encourage and inspire more to pursue science, technology, engineering and mathematics (STEM) subjects.
