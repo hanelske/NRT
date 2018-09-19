@@ -15,7 +15,6 @@ header:
 Building on the success of the fully autonomous and robotic [Liverpool Telescope](http://telescope.livjm.ac.uk/), the design of its 4 metre successor is underway. The focus is on fast follow-up of rapidly varying and fading transients, including gravitational wave candidates and new and exciting objects, which are anticipated to be discovered in the new upcoming era of survey telescopes. The next decade will see the commissioning of many major international projects, opening new windows on the time-variable universe. They will make it possible to search wider areas of the sky than ever before, and as such discover new classes of transient and time-variable sources at optical, radio and high-energy Gamma-ray wavelengths and exploiting multimessenger and particle physics too. There is a critical need for a new 4.0m optical follow-up facility to rapidly respond to such discoveries and make detailed photometric, spectroscopic and polarimetric observations.
 
 ## Optical design
-
 ![image-center](NRT_side_view.png){: .align-center}
 
 The NRT is designed for rapid follow-up of transient objects (see the [Science Case](science_case.md) for full details). The 4-metre diameter mirror will enable the exploration of fainter sources and shorter exposure times (and thus increased cadence monitoring) of transient and variable objects.
@@ -23,7 +22,6 @@ The NRT is designed for rapid follow-up of transient objects (see the [Science C
 The baseline optical design that has been developed for the facility is a Ritchey-Chrétien telescope with a 4-metre primary mirror of focal ratio = f7.5. The design uses an f1.75 primary mirror and a back focal distance of 2.5m; allowing sufficient optical path length to provide possible Nasmyth (along with Cassegrain) foci and to allow for the mechanics of the tube, mirror support and instrumentation. The mirror design is still in discussion, with 6-segment (plus spare) and monolithic designs having a variety of advantages and disadvantages. 
 
 ## Mirror design
-
 ![image-center](petalvshexvscirc_seg.png){: .align-center}
 
 A 6-segment hexagonal or petal design would allow easier removal of segments, more regular maintenance, less down-time and are lighter than a monolithic mirror. Seven identical segments would be used in rotation, allowing the telescope to continue observing during recoating without needing to go offline. A monolithic mirror would also be a single point of failure; if it were to be damaged in the removal/recoating process there is no back-up. A monolithic mirror ideally requires a crane fixed to the dome for removal. The current LT enclosure does not allow for a fixed crane, so an external crane is required.
