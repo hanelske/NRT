@@ -2,7 +2,7 @@
 title: "Location and site"
 layout: splash
 toc: true
-permalink: /NSO/
+permalink: /site/
 author_profile: false
 comments: false
 header:
