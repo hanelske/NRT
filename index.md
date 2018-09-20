@@ -29,3 +29,10 @@ At the end of September Adrian McGrath, Iain Steele and Helen Jermak from LJMU w
 
 ## New positions
 We are in the process of appointing candidates for the DevOps software engineer, systems engineer and mechanical engineer positions at LJMU. These new starters will be joining the team before the end of 2018.
+
+<form action="https://formspree.io/your@email.com"
+      method="POST">
+    <input type="text" placeholder="Name" name="name">
+    <input type="email" placeholder="Email" name="_replyto" required>
+    <input type="submit" value="Send">
+</form>
