@@ -6,9 +6,7 @@ permalink: /site/
 author_profile: false
 comments: false
 header:
-    video: 
-      id: ym1LqmzbivM
-      provider: youtube
+    image: lapalma_view.png
 ---
 
 The New Robotic Telescope (NRT) will be co-located with the current Liverpool Telescope (LT) on the Canary Island of La Palma. The proposed site for construction is the disused Carlsberg Meridian Telescope site, close to the William Herschel Telescope (WHT). 
