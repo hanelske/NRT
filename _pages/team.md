@@ -19,13 +19,16 @@ The Liverpool John Moores University team are part of the [Astrophysics Research
 
 ## Professor Iain Steele 
 **NRT Director**
+<i.a.steele@ljmu.ac.uk>
 
 ![Iain Steele](ias.jpg)
+
 
 I am the LT Director and Head of the Technology Group at ARI, LJMU.  I obtained my PhD in observational infrared astronomy from the Univeristy of Leicester in 1994, and then worked as a Research Fellow at the University of Southampton until 1996 when I moved to LJMU to work on the original robotic telescope project.  My research interests include novel astronomical instrumentation, especially polarimetric and spectroscopic, as well as observational work on a wide range of time variable phenomena including GRBs, Be stars, blazars and exoplanets.  Although I am from Newcastle upon Tyne, I have absolutely no interest in football!
 
 ## Dr. Chris Copperwheat
 **NRT Deputy-PI**
+<c.m.copperwheat@ljmu.ac.uk>
 
 ![Chris Copperwheat](astccopp.jpg)
 
@@ -33,12 +36,14 @@ I am the Liverpool Telescope Astronomer in Charge and a Reader in Time Domain As
 
 ## Mr. Adrian McGrath
 **NRT Project Manager**
+<a.m.mcgrath@ljmu.ac.uk>
 
 I am the New Robotic Telescope Project Manager. I am a Prince2 and Scrum Master qualified Project Manager who has used these methodologies in isolation and combined to deliver a variety of different sized projects.
 Multi-disciplined projects like the NRT are a great opportunity to develop existing skills and learn new ones. I’m excited to discover what new skills I’m going acquire during this project.
 
 ## Dr. Helen Jermak
 **NRT Project Scientist**
+<h.e.jermak@ljmu.ac.uk>
 
 ![Helen Jermak](me_LT_edit.jpeg)
 
@@ -46,6 +51,7 @@ I obtained my PhD from LJMU in 2016 and worked as an E-ELT PDRA at Lancaster Uni
 
 ## Dr. Éamonn Harvey
 **NRT Instrument Scientist**
+<e.j.harvey@ljmu.ac.uk>
 
 ![Eamonn Harvey](photo_EJH.png)
 
