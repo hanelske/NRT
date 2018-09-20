@@ -53,9 +53,9 @@ I finished my PhD entitled the 'Structure and Evolution of Classical Nova Shells
 
 
 ## Coming soon:
-**DevOps Software Engineer**
-**Systems Engineer**
-**Mechanical Engineer**
+* DevOps Software Engineer
+* Systems Engineer
+* Mechanical Engineer
 
 # IAC
 
