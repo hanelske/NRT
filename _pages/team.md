@@ -11,9 +11,11 @@ header:
 
 The NRT design team consists of staff from Liverpool John Moores University (LJMU), the Instituto de Astrofisica de Canarias (IAC) and the National Astronomical Research Institute of Thailand (NARIT). 
 
-Below is a brief bio and photo of each of the team members.
+Below is a description of the partner institutes and a brief bio and photo of each of the team members.
 
 # LJMU
+
+The Liverpool John Moores University team are part of the [Astrophysics Research Institute (ARI)](http://www.astro.ljmu.ac.uk). The Liverpool Telescope team currently consists of ten staff members and one PhD student, with one postdoc and three new NRT staff starting before the end of 2018. The ARI have a large time-domain research group who utilise the LT and advise on its potential science uses. 
 
 ## Professor Iain Steele 
 **NRT Director**
@@ -48,6 +50,12 @@ I obtained my PhD from LJMU in 2016 and worked as an E-ELT PDRA at Lancaster Uni
 ![Eamonn Harvey](photo_EJH.png)
 
 I finished my PhD entitled the 'Structure and Evolution of Classical Nova Shells' in January 2018 at NUI Galway. I now work as the Instrument Scientist for the Liverpool New Robotic Telescope to be built on the Roque de los Muchachos (La Palma). Aside from developing the instrumentation for the New Robotic Telscope, my research interests revolve around the nebulae created from stellar destruction events in binary systems. Outside of work you may find me swimming in the ocean or surfing the sidewalks. 
+
+
+## Coming soon:
+**DevOps Software Engineer**
+**Systems Engineer**
+**Mechanical Engineer**
 
 # IAC
 
