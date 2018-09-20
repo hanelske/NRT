@@ -59,6 +59,8 @@ I finished my PhD entitled the 'Structure and Evolution of Classical Nova Shells
 
 # IAC
 
+The Instituto de Astrofísica de Canarias (IAC) is an international research centre based in the Canary Islands, Spain. They centres and observing sites on La Palma and Tenerife. The IAC officially became a partner on the NRT project in April 2016 when they signed a memorandum of understanding with LJMU. Since then the IAC have been building their team of engineers and have started exploring design concepts for the telescope and optical system.
+
 ## Prof Rafael Rebolo
 **IAC Director**
 
