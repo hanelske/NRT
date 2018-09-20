@@ -43,6 +43,6 @@ The Liverpool Telescope, following first light in 2004, is now at a mature stage
 
 As we move forward with NRT project, the role of the LT will change to enhance the synergy between the two facilities. The plan for the LT is to simplify the instrumentation suite to a wide-field 2x2 degree camera at prime focus and a straight-through fibre-fed spectrograph. These instruments align well with gravitational-wave counterpart candidate searches and surveys, along with the monitoring of other transient and variable objects. The two telescopes would be run as a combined facility providing simultaneous spectroscopy and photoemtry of the same target and the LT would be operated as a transient-finding facility. The Palomar Transient Factory has demonstrated the utility of this factory approach to transient science, and a fully automotated robotic facility would be extremely productive.
 
-![image-center](LT_newpurpose.jpg){: .align-center}
+![image-center](LT_newpurpose.png){: .align-center}
 
 The two facilities will be available to all partners of the NRT project, and in addition they will be made available to school children across the world via the Schools' Observatory, and the amount of observing time on the Liverpool Telescope will increase from its current level of 10%.
