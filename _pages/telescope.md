@@ -45,4 +45,4 @@ As we move forward with NRT project, the role of the LT will change to enhance t
 
 ![image-center](LT_newpurpose.png){: .align-center}
 
-The two facilities will be available to all partners of the NRT project, and in addition they will be made available to school children across the world via the Schools' Observatory, and the amount of observing time on the Liverpool Telescope will increase from its current level of 10%.
+The two facilities will be available to all partners of the NRT project, and in addition they will continue to be made available to school children across the world via the Schools' Observatory, and the amount of observing time on the Liverpool Telescope will increase from its current level of 10%. For more information about our future outreach programmes see our [outreach](NSO.md) page.
