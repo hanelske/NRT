@@ -21,20 +21,20 @@ All the latest news on the development of the LT2 project will appear here, as w
 ## 2016
 * 20th June 2016:	[Liverpool Telescope Involved in Gravitational Wave Followup Campaign](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20160620)
 * 7th April 2016: [Memorandum Of Understanding signed between LJMU and Instituto de Astrofisica de Canarias (IAC)](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20160407)
-* 2nd March 2016: LT/LT2 seminar at National Astronomical Research Institute of Thailand
+* 2nd March 2016: [LT/LT2 seminar](http://telescope.livjm.ac.uk/lt2/downloads/160302_narit.pdf) at National Astronomical Research Institute of Thailand
 
 
 ## 2015
-* 9th November 2015: LT/LT2 talk at the sixth Gaia Science Alerts workshop, Liverpool
-* 30th September 2015: Talk at the Fourth Workshop on Robotic Autonomous Observatories, Torremolinos
-* 26th June 2015: Talk at EWASS, Tenerife
+* 9th November 2015: LT/LT2 talk at the sixth [Gaia Science Alerts workshop, Liverpool](https://www.ast.cam.ac.uk/ioa/wikis/gsawgwiki/index.php/Workshop2015:main)
+* 30th September 2015: Talk at the [Fourth Workshop on Robotic Autonomous Observatories, Torremolinos](http://astrorob.iaa.es/)
+* 26th June 2015: [Talk at EWASS, Tenerife](http://eas.unige.ch/EWASS2015/index.jsp)
 * 27th March 2015: [The LT draws in the crowds at StarGazing Live 2015](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20150327)
 
 ## 2014
-* 14th November 2014: Talk at RAS Specialist Discussion Meeting on Time Domain Astronomy with LT and LT2
+* 14th November 2014: Talk at [RAS Specialist Discussion Meeting on Time Domain Astronomy with LT and LT2](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20140815)
 * 14th August 2014: [RAS Specialist Discussion Meeting on Time Domain Astronomy with LT and LT2](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20140815)
 * 24th June 2014: Talk at SPIE Astronomical Telescopes and Instrumentation, Montreal
-* 3rd February 2014: Article published in It's Liverpool magazine
+* 3rd February 2014: Article published in 'It's Liverpool' magazine
 * 6th January 2014: Seminar at the Instituto de Astrofísica de Canarias
 
 
