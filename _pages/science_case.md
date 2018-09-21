@@ -22,6 +22,7 @@ The main science requirements of the NRT are:
 * Magnitude limitsdown to R~21-22
 * Multiband, time-resolved photometry and polarimetry
 * Rapid slew to target, with low overheads
+{: .notice--info}
 
 In particular the NRT will carry out 
 * ultra-rapid (<30 seconds) spectroscopic and polarimetric follow-up of electromagnetic counterparts of gravitational wave (aLIGO/Virgo) and neutrino (IceCUBE/ANTARES) sources and new radio (e.g. LOFAR/SUPERB) and high energy (e.g. SVOM, Fermi, Einstein Probe) transients, 
