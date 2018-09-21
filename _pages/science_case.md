@@ -9,15 +9,19 @@ header:
   image: M57.jpg
 ---
 
-The key science drivers for the NRT are time-domain sources: highly variable and transient objects whose cadence, brightness, predictability and origin are often unknown prior to discovery. The source of their variable and tranisent nature is either intrinsic (such as the cataclysmic death of a star in a supernova explosion) or extrinsic (the transit of an exoplanet past its host star). These sources are notoriously difficult to follow-up. In particular the design of the NRT is ideal for the study of sources such as supernovae, gamma-ray bursts, electromagnetic counterparts to gravitational wave sources, exoplanets, Gaia sources, fast-radio bursts, and new and currently unknown sources that will be discovered in the coming years. 
+The key science drivers for the NRT are time-domain sources: highly variable and transient objects whose cadence, brightness, predictability and origin are often unknown prior to discovery. The source of their variable and tranisent nature is either intrinsic (such as the cataclysmic death of a star in a supernova explosion) or extrinsic (the transit of an exoplanet past its host star). The image below shows an example of known instrinsically variable sources.
 
 ![transient phase space](transient_phase_space.png)
 
-This page summarises a variety of science drivers for the NRT. Full details can be found in the following publications:
+These sources are notoriously difficult to follow-up. The design of the NRT with its rapid slew rate, automated response to triggers and 4-metre primary mirror is ideal for the study of sources such as supernovae, gamma-ray bursts, electromagnetic counterparts to gravitational wave sources, exoplanets, Gaia sources, fast-radio bursts, and new and currently unknown sources that will be discovered in the coming years. 
 
-[C. Copperwheat et. al, 2015](https://arxiv.org/abs/1410.1731)
-
-[C. Copperwheat et. al, 2014](https://arxiv.org/abs/1408.1403)
+The main science requirements of the NRT are:
+* Robotic, triggerable, rapid data dissemination
+* Wide spectral range
+* Low/intermediate resolution (R~100-5000), robotic aquisition spectroscopic capabilities
+* Magnitude limitsdown to R~21-22
+* Multiband, time-resolved photometry and polarimetry
+* Rapid slew to target, with low overheads
 
 In particular the NRT will carry out 
 * ultra-rapid (<30 seconds) spectroscopic and polarimetric follow-up of electromagnetic counterparts of gravitational wave (aLIGO/Virgo) and neutrino (IceCUBE/ANTARES) sources and new radio (e.g. LOFAR/SUPERB) and high energy (e.g. SVOM, Fermi, Einstein Probe) transients, 
@@ -79,6 +83,12 @@ Alongside the discovery of large samples of exoplanets around bright stars, a se
 # Solar System Science
 Within our solar system, science is naturally dominated by the time domain. NRT will contribute to understanding the physics of individual Solar System objects (e.g. YORP effect in asteroids, simultaneous spectroscopy and polarimetry of small bodies in conjunction with rendezvous missions (e.g. Psyche, Lucy) for gas and dust composition and dynamics, and monitoring the post New Horizons encounter evolution of the surface chemistry of Pluto). It will also support population studies where fast non-sidereal tracking will enable spectroscopic observations of moving targets, an important tool for taxonomy. The robotic operations model will allow rapid follow-up of new discoveries (e.g. LSST, ZTF, Pan-STARRS) to extend the orbit arc and studies of transient events such as asteroid collisions and interstellar visitors.
 
+
+Full details can be found in the following publications:
+
+[C. Copperwheat et. al, 2015](https://arxiv.org/abs/1410.1731)
+
+[C. Copperwheat et. al, 2014](https://arxiv.org/abs/1408.1403)
 
 If you want more information about the NRT Science Case, or are a potential future user, please contact the NRT Project Scientist, Helen Jermak; <h.e.jermak@ljmu.ac.uk>.
 
