@@ -15,7 +15,7 @@ Building on the success of the fully autonomous and robotic [Liverpool Telescope
 
 ## Robotic capabilities
 
-The LT has been observing the Northern hemisphere skies without staff presence (remote or on site) for over ten years. 
+The LT has been observing the Northern hemisphere skies without staff presence (remote or on site) for over ten years. With seven simultaneous mounted and available instruments (including a robotic aquisition spectrograph), automated overrides for Gamma-ray burst triggers and autonomous responses to weather conditions, the facility is at the forefront of robotic astronomy.
 
 What are the advantages of robotic observing?
 * Relatively low operational costs
@@ -25,7 +25,7 @@ What are the advantages of robotic observing?
 * Flexible observing options
 * Fairer distribution of observing time to users. 
 
-The core LT team have developed expertise in the field of autonomous and robotic telescope control systems and are setting their sights on a larger, more challenging project. The NRT 
+The LT team have developed expertise in the field of autonomous and robotic telescope control (RCS) systems and are setting their sights on a larger, more challenging project. The NRT control system will develop from the existing LT RCS, incorporating new software technologies and advancements. 
 
 ## Optical design
 ![image-center](NRT_side_view.png){: .align-center}
