@@ -25,7 +25,8 @@ What are the advantages of robotic observing?
 * Flexible observing options
 * Fairer distribution of observing time to users. 
 
-The LT team have developed expertise in the field of autonomous and robotic telescope control (RCS) systems and are setting their sights on a larger, more challenging project. The NRT control system will develop from the existing LT RCS, incorporating new software technologies and advancements. 
+The LT team have developed expertise in the field of autonomous and robotic telescope control (RCS) systems and are 
+setting their sights on a larger, more challenging project. The NRT control system will develop from the existing LT RCS, incorporating new software technologies and advancements. 
 
 ## Optical design
 ![image-center](NRT_side_view.png){: .align-center}
@@ -47,7 +48,7 @@ Segmented mirrors require complicated software to co-align or phase the mirrors,
 
 ![image-center](15640727497_d9263ee46c_o.jpg){: .align-center}
 
-The iconic clamshell enclosure of the LT is operated by hydraulic rams that deploy to allow the three panels on either side to lower and overlap each other, creating an entirely open space around the telescope. This design allows the LT to rapidly slew across the sky arriving at the target of interest within minutes, without waiting for dome rotation, it also removes any effects from dome seeing. It does, however, leave the telescope vulnerable to wind shake, and delicate instrumentation housed on the telescope Cassegrain can be exposed to Calima (the hot, dry dust that comes from the Sahara). The lack of a permanent roof above the telescope also means that there is no place for a crane to be fixed for removal of mirrors or instrumentation from the telescope.
+The iconic clamshell enclosure of the LT is operated by hydraulic rams that deploy to allow the three portals on either side to lower and overlap each other, creating an entirely open space around the telescope. This design allows the LT to rapidly slew across the sky arriving at the target of interest within minutes, without waiting for dome rotation, it also removes any effects from dome seeing. It does, however, leave the telescope vulnerable to wind shake, and delicate instrumentation housed on the telescope Cassegrain can be exposed to Calima (the hot, dry dust that comes from the Sahara). 
 
 As part of the NRT design, we are exploring the benefits and issues with domes and enclosures. A slow, heavy dome could increase the response time of the telescope so we are in discussion with construction companies about new light-weight materials and means of rotating the dome at a speed comparable to that of the telescope itself. The telescope housing is the most important barrier to the elements, and if it fails it can have catastrophic results. In the 20+ years of the LT's operation, the enclosure has failed twice (without any serious implications), however, as it is a robotic, autonomous and entirely unmanned facility during operation, a reliable housing for the telescope is an absolutely crucial component of the design. A dome's shutter could be designed so that during a loss of power, the shutter closes itself under its own weight; this would not be possible with an enclosure as the panels close against gravity. We continue to explore new ideas and designs, and apply all the knowledge we have from 20+ years of LT operations.
 
