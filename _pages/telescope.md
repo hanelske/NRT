@@ -11,11 +11,21 @@ header:
       provider: vimeo
 ---
 
-Building on the success of the fully autonomous and robotic [Liverpool Telescope](http://telescope.livjm.ac.uk/) which has been observing robotically since 2004, the design of its 4 metre successor, the New Robotic Telescope (NRT) is underway. The focus is on robotic, autonomous, fast follow-up of rapidly varying and fading transients, including gravitational wave candidates and new and exciting objects, which are anticipated to be discovered in the new upcoming era of survey telescopes. The next decade will see the commissioning of many major international projects, opening new windows on the time-variable universe. They will make it possible to search wider areas of the sky than ever before, and as such discover new classes of transient and time-variable sources at optical, radio and high-energy Gamma-ray wavelengths and exploiting multimessenger and particle physics too. There is a critical need for a new 4-metre optical follow-up facility to rapidly respond to such discoveries and make detailed photometric, spectroscopic and polarimetric observations.
+Building on the success of the fully autonomous and robotic [Liverpool Telescope](http://telescope.livjm.ac.uk/), the design of its 4 metre successor, the New Robotic Telescope (NRT) is underway. The focus is on robotic, autonomous, fast follow-up of rapidly varying and fading transients, including gravitational wave candidates and new and exciting objects, which are anticipated to be discovered in the new upcoming era of survey telescopes. The next decade will see the commissioning of many major international projects, opening new windows on the time-variable universe. They will make it possible to search wider areas of the sky than ever before, and as such discover new classes of transient and time-variable sources at optical, radio and high-energy Gamma-ray wavelengths and exploiting multimessenger and particle physics too. There is a critical need for a new 4-metre optical follow-up facility to rapidly respond to such discoveries and make detailed photometric, spectroscopic and polarimetric observations.
 
 ## Robotic capabilities
 
-The LT has been observing the Northern hemisphere skies without staff presence (remote or on site) for over ten years. The robotic nature of the facility affords many advantages including relatively low operational costs, highly varied science carried out in one night, rapid reaction times, optimised observations according to weather and visibility conditions, flexible observing options and fairer distribution of observing time to users. The core LT team have developed expertise in the field of autonomous and robotic telescope control systems and are setting their sights on a larger, more challenging project. The design of the robotic control system for the NRT will 
+The LT has been observing the Northern hemisphere skies without staff presence (remote or on site) for over ten years. 
+
+What are the advantages of robotic observing?
+* Relatively low operational costs
+* Highly varied science carried out in one night 
+* Rapid reaction times
+* Optimised observations according to weather and visibility conditions
+* Flexible observing options
+* Fairer distribution of observing time to users. 
+
+The core LT team have developed expertise in the field of autonomous and robotic telescope control systems and are setting their sights on a larger, more challenging project. The NRT 
 
 ## Optical design
 ![image-center](NRT_side_view.png){: .align-center}
