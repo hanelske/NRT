@@ -55,41 +55,24 @@ The next decade will see the exploration of the time-domain sky in different ele
 
 Facilities such as CTA, aLIGO and IceCube share a common problem for electromagnetic follow-up: large positional uncertainty. The problem is distinguishing the true counterpart from the large numbers of unrelated candidates in a sky region many square degrees in size. GW170807 highlighted the importance of identifying the counterpart rapidly, since the first 12 hours showed a very rapid evolution in the transient spectrum, and these early observations were key to the physical understanding of the event. The rapid colour evolution of this source in the early hours was very distinct from what has previously been observed in supernovae, making these early time measurements vital for counterpart identification in this field. NRT will complement new discovery facilities such as the UK-led [GOTO](https://warwick.ac.uk/fac/sci/physics/research/astro/research/goto/) project, which will also be on La Palma. Automated cooperation between these two robotic facilities can provide colours and spectroscopic classifications within minutes of candidate discovery.
 
-Southern
-PESSTO
-SOXS
-SkyMapper
-
-LSST
 ASKAP/MEERKAT/SKA
 
-Northern
-ZTF (iPTF, PTF)
 PanSTARRS
 SNLS
 
-LOFAR
-
-Both
-CTA (high energy Gamma-rays)
-Icecube
-eROSITA
-aLIGO/Virgo
-
 # Exoplanets 
-The next generation of satellite surveys (e.g. TESS, PLATO) will find a zoo of new exoplanets, which will require ground-based characterization. These surveys target bright host stars to maximise the potential for follow-up, this provides a wider variety of time variable signatures to be explored for large numbers of exoplanets. The spectroscopic and polarimetric capabilities of the NRT can be exploited to explore the debris disks of these planetary systems. 
+The next generation of satellite surveys (e.g. TESS, PLATO) will find a zoo of new exoplanets that require ground-based characterization. These surveys target bright host stars to maximise the potential for follow-up; providing a wider variety of time variable signatures to be explored for large numbers of exoplanets. The spectroscopic and polarimetric capabilities of the NRT can be exploited to explore the debris disks of these planetary systems. 
 
-Alongside the discovery of large samples of exoplanets around bright stars, a secondary aim of the exoplanetary community has been to specifically target small stars. The motivation here is the discovery of Earth-sized worlds, and it has been recognised that the transit depth for an Earth sized exoplanet around an M-dwarf is the same as a hot Jupiter orbiting a G-dwarf. The strategy of targeting late type stars has paid off immensely with the discovery of an Earth sized world around Proxima Centauri, and the characterisation of seven such planets in the TRAPPIST-1 system, a science programme in which the LT played and continues to play a prominent role. The problem here is that the host stars are extremely faint: TRAPPIST-1 has an Mv=18.4 despite being only 12 parsecs away. It is inevitable that future work in this direction will involve even fainter targets, driving the need for the larger aperture NRT for future follow-up programmes.
+Along with observing large samples of exoplanets around bright stars, a secondary aim of the exoplanetary community has been to target small stars with the motivation of discovering Earth-sized worlds. Tt has been recognised that the transit depth for an Earth-sized exoplanet around an M-dwarf is the same as a hot Jupiter orbiting a G-dwarf. The strategy of targeting late type stars has paid off immensely with the discovery of an Earth-sized world around Proxima Centauri, along with the characterisation of seven such planets in the TRAPPIST-1 system (a science programme in which the LT played and continues to play a prominent role). The difficulty is that host stars are extremely faint: TRAPPIST-1 has an Mv=18.4 despite being only 12 parsecs away. Due to the increasingly fainter targets, the need for a larger aperture follow-up telescope, such as the NRT, is even stronger.
 
 # Solar System Science
 Within our solar system, science is naturally dominated by the time domain. NRT will contribute to understanding the physics of individual Solar System objects (e.g. YORP effect in asteroids, simultaneous spectroscopy and polarimetry of small bodies in conjunction with rendezvous missions (e.g. Psyche, Lucy) for gas and dust composition and dynamics, and monitoring the post New Horizons encounter evolution of the surface chemistry of Pluto). It will also support population studies where fast non-sidereal tracking will enable spectroscopic observations of moving targets, an important tool for taxonomy. The robotic operations model will allow rapid follow-up of new discoveries (e.g. LSST, ZTF, Pan-STARRS) to extend the orbit arc and studies of transient events such as asteroid collisions and interstellar visitors.
 
-
-Full details can be found in the following publications:
+Full details of the NRT science case can be found in the following publications:
 
 [C. Copperwheat et. al, 2015](https://arxiv.org/abs/1410.1731)
 
 [C. Copperwheat et. al, 2014](https://arxiv.org/abs/1408.1403)
 
-If you would like more information about the NRT Science Case, or are a potential future user, please contact the NRT Project Scientist, Helen Jermak; <h.e.jermak@ljmu.ac.uk>.
+In addition, if you would like more information about the NRT Science Case, or are a potential future user, please contact the NRT Project Scientist, Helen Jermak; <h.e.jermak@ljmu.ac.uk>.
 
