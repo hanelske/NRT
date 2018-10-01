@@ -6,7 +6,7 @@ permalink: /team/
 author_profile: false
 comments: false
 header:
-  image: NRTW_group_2_400.png
+  image: LSST_group_crop.jpg
 ---
 
 The NRT design team consists of staff from Liverpool John Moores University (LJMU), the Instituto de Astrofisica de Canarias (IAC) and the National Astronomical Research Institute of Thailand (NARIT). 
