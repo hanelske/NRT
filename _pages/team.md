@@ -24,15 +24,16 @@ Coming soon at LJMU:
 
 # IAC
 
-The Instituto de Astrofísica de Canarias (IAC) is an international research centre based in the Canary Islands, Spain. They centres and observing sites on La Palma and Tenerife. The IAC officially became a partner on the NRT project in April 2016 when they signed a memorandum of understanding with LJMU. Since then the IAC have been building their team of engineers and have started exploring design concepts for the telescope and optical system.
+The [Instituto de Astrofísica de Canarias (IAC)](http://www.iac.es/) is an international research centre based in the Canary Islands, Spain. They centres and observing sites on La Palma and Tenerife. The IAC officially became a partner on the NRT project in April 2016 when they signed a memorandum of understanding with LJMU. Since then the IAC have been building their team of engineers and have started exploring design concepts for the telescope and optical system.
 
 
 # NARIT
-The National Astronomical Research Institute of Thailand (NARIT) is a research organisation based in Thailand enabling the development of a collaborative research network regionally and globally. NARIT have recently signed a memorandum of understanding with LJMU and are working on the design concepts of the telescope.
+The [National Astronomical Research Institute of Thailand (NARIT)](http://www.narit.or.th/) is a research organisation based in Thailand enabling the development of a collaborative research network regionally and globally. NARIT have recently signed a memorandum of understanding with LJMU and are working on the design concepts of the telescope.
 
 
 ## Dr. Chris Copperwheat (LJMU)
 **NRT Deputy-PI**
+
 <c.m.copperwheat@ljmu.ac.uk>
 
 ![Chris Copperwheat](astccopp.jpg)
@@ -44,6 +45,7 @@ I am the Liverpool Telescope Astronomer in Charge and a Reader in Time Domain As
 
 ## Dr. Éamonn Harvey (LJMU)
 **NRT Instrument Scientist**
+
 <e.j.harvey@ljmu.ac.uk>
 
 ![Eamonn Harvey](photo_EJH.png)
@@ -52,6 +54,7 @@ I finished my PhD entitled the 'Structure and Evolution of Classical Nova Shells
 
 ## Dr. Helen Jermak (LJMU)
 **NRT Project Scientist**
+
 <h.e.jermak@ljmu.ac.uk>
 
 ![Helen Jermak](me_LT_edit.jpeg)
@@ -63,6 +66,7 @@ I obtained my PhD from LJMU in 2016 and worked as an E-ELT PDRA at Lancaster Uni
 
 ## Mr. Adrian McGrath (LJMU)
 **NRT Project Manager**
+
 <a.m.mcgrath@ljmu.ac.uk>
 
 I am the New Robotic Telescope Project Manager. I am a Prince2 and Scrum Master qualified Project Manager who has used these methodologies in isolation and combined to deliver a variety of different sized projects.
@@ -92,6 +96,7 @@ I have been working for years as software engineer in Madrid in different projec
 
 ## Prof. Iain Steele (LJMU)
 **NRT Director**
+
 [Iain Steele]<i.a.steele@ljmu.ac.uk>
 
 ![Iain Steele](ias.jpg)
