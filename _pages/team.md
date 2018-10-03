@@ -18,7 +18,7 @@ Below is a description of the partner institutes and a brief bio and photo of ea
 The Liverpool John Moores University team are part of the [Astrophysics Research Institute (ARI)](http://www.astro.ljmu.ac.uk). The Liverpool Telescope team currently consists of ten staff members and one PhD student, with one postdoc and three new NRT staff starting before the end of 2018. The ARI have a large time-domain research group who utilise the LT and advise on its potential science uses. 
 
 
-## Coming soon at LJMU:
+# Coming soon at LJMU:
 * DevOps Software Engineer
 * Systems Engineer
 * Mechanical Engineer
