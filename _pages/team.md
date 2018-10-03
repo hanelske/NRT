@@ -17,8 +17,7 @@ Below is a description of the partner institutes and a brief bio and photo of ea
 
 The Liverpool John Moores University team are part of the [Astrophysics Research Institute (ARI)](http://www.astro.ljmu.ac.uk). The Liverpool Telescope team currently consists of ten staff members and one PhD student, with one postdoc and three new NRT staff starting before the end of 2018. The ARI have a large time-domain research group who utilise the LT and advise on its potential science uses. 
 
-
-# Coming soon at LJMU:
+Coming soon at LJMU:
 * DevOps Software Engineer
 * Systems Engineer
 * Mechanical Engineer
@@ -58,7 +57,7 @@ I finished my PhD entitled the 'Structure and Evolution of Classical Nova Shells
 
 I obtained my PhD from LJMU in 2016 and worked as an E-ELT PDRA at Lancaster University, and an Instrument Scientist for the MOPTOP polarimeter project at LJMU before joining the NRT project in Spring 2018. My research interests are optical polarimetry, particularly of blazars, and instrumentation. I am one of the co-chairs of the ARI's Equality and Diversity team and I am also the Diversity and Wellbeing representative for the departmental Management Board. In my spare time I like to play rugby, practice yoga and see live music.
 
-## Prof Johan Knapen
+## Prof. Johan Knapen
 **Staff Astronomer**
 
 ## Mr. Adrian McGrath
@@ -68,7 +67,7 @@ I obtained my PhD from LJMU in 2016 and worked as an E-ELT PDRA at Lancaster Uni
 I am the New Robotic Telescope Project Manager. I am a Prince2 and Scrum Master qualified Project Manager who has used these methodologies in isolation and combined to deliver a variety of different sized projects.
 Multi-disciplined projects like the NRT are a great opportunity to develop existing skills and learn new ones. I’m excited to discover what new skills I’m going acquire during this project.
 
-## Asier Oria Carreras 
+## Mr. Asier Oria Carreras 
 **Mechanical Engineer**
 
 ![Asier](Asier-smol.jpg)
@@ -77,20 +76,20 @@ I am a mechanical engineer with strong interest in R&D projects currently workin
 I have previous experience in ground astrophysical instrumentation projects which were by far smaller than a 4m-class telescope.
 For this reason I am willing to learn as much as possible from this exciting new project.
 
-## Dr Thirasak Panyaphirawat 
+## Dr. Thirasak Panyaphirawat 
 **Project Partner**
 
-## Prof Rafael Rebolo
+## Prof. Rafael Rebolo
 **IAC Director**
 
-## Juan José Sanabria Cumbreño 
+## Mr. Juan José Sanabria Cumbreño 
 **Software Engineer**
 
 ![JuanJose](JuanJose-smol.jpg)
 
 I have been working for years as software engineer in Madrid in different projects and companies. I moved to Tenerife where I became telescope operator for two of the night time telescopes placed in the Teide Observatory. In addition, in the IAC, I have worked as an engineer designing software for scientific instrumentation, data analysis and telescope control. I am an amateur astronomer and I like to observe the night sky regularly with the naked eye and binoculars.
 
-## Professor Iain Steele 
+## Prof. Iain Steele 
 **NRT Director**
 [Iain Steele]<i.a.steele@ljmu.ac.uk>
 
@@ -98,7 +97,7 @@ I have been working for years as software engineer in Madrid in different projec
 
 I am the LT Director and Head of the Technology Group at ARI, LJMU.  I obtained my PhD in observational infrared astronomy from the Univeristy of Leicester in 1994, and then worked as a Research Fellow at the University of Southampton until 1996 when I moved to LJMU to work on the original robotic telescope project.  My research interests include novel astronomical instrumentation, especially polarimetric and spectroscopic, as well as observational work on a wide range of time variable phenomena including GRBs, Be stars, blazars and exoplanets.  Although I am from Newcastle upon Tyne, I have absolutely no interest in football!
 
-## Miguel Ángel Torres Gil
+## Mr. Miguel Ángel Torres Gil
 **NRT Systems Engineer**
 
 ![Asier](Miguel-smol.jpg)
