@@ -28,6 +28,7 @@ The Instituto de Astrofísica de Canarias (IAC) is an international research cen
 
 
 # NARIT
+The National Astronomical Research Institute of Thailand (NARIT) is a research organisation based in Thailand enabling the development of a collaborative research network regionally and globally. NARIT have recently signed a memorandum of understanding with LJMU and are working on the design concepts of the telescope.
 
 
 ## Dr. Chris Copperwheat
