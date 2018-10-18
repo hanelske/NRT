@@ -1,7 +1,7 @@
 ---
 title: "Outreach and Engagement"
 layout: single
-toc: true
+toc: false
 permalink: /NSO/
 author_profile: false
 comments: false
