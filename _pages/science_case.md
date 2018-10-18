@@ -9,7 +9,7 @@ header:
   image: M57.jpg
 ---
 
-The key science drivers for the NRT are time-domain sources: highly variable and transient objects whose cadence, brightness, predictability and origin are often unknown prior to discovery. The source of their variable and tranisent nature is either intrinsic (such as the cataclysmic death of a star in a supernova explosion) or extrinsic (the transit of an exoplanet past its host star). The image below shows an example of known instrinsically variable sources.
+The New Robotic Telescope will be one of the fastest responding ground-based optical facilities, designed for rapid response to triggers and using its speed and autonomous responses to be first on target for many fast and fading sources. The key science drivers for the NRT are time-domain sources: highly variable and transient objects whose cadence, brightness, predictability and origin are often unknown prior to discovery. The source of their variable and tranisent nature is either intrinsic (such as the cataclysmic death of a star in a supernova explosion) or extrinsic (the transit of an exoplanet past its host star). The image below shows an example of known instrinsically variable sources.
 
 ![transient phase space](transient_phase_space.png)
 
@@ -56,11 +56,6 @@ The next decade will see the exploration of the time-domain sky in different ele
 ## Overcoming positional uncertainty
 
 Facilities such as CTA, aLIGO and IceCube share a common problem for electromagnetic follow-up: large positional uncertainty. The problem is distinguishing the true counterpart from the large numbers of unrelated candidates in a sky region many square degrees in size. GW170807 highlighted the importance of identifying the counterpart rapidly, since the first 12 hours showed a very rapid evolution in the transient spectrum, and these early observations were key to the physical understanding of the event. The rapid colour evolution of this source in the early hours was very distinct from what has previously been observed in supernovae, making these early time measurements vital for counterpart identification in this field. NRT will complement new discovery facilities such as the UK-led [GOTO](https://warwick.ac.uk/fac/sci/physics/research/astro/research/goto/) project, which will also be on La Palma. Automated cooperation between these two robotic facilities can provide colours and spectroscopic classifications within minutes of candidate discovery.
-
-ASKAP/MEERKAT/SKA
-
-PanSTARRS
-SNLS
 
 # Exoplanets 
 The next generation of satellite surveys (e.g. TESS, PLATO) will find a zoo of new exoplanets that require ground-based characterization. These surveys target bright host stars to maximise the potential for follow-up; providing a wider variety of time variable signatures to be explored for large numbers of exoplanets. The spectroscopic and polarimetric capabilities of the NRT can be exploited to explore the debris disks of these planetary systems. 
