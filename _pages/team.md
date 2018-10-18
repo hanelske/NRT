@@ -34,6 +34,10 @@ The [National Astronomical Research Institute of Thailand (NARIT)](http://www.na
 
 <d.m.arnold@ljmu.ac.uk>
 
+![Doug Arnold](darnold.jpg)
+
+I have been interested in Telescopes and Astronomy since being a teenager. After studying Physics and Astronomy I completed a PhD at Liverpool John Moores University working with instrumentation on the Liverpool Telescope, to measure polarisation of Gamma-ray Burst Afterglows. During the PhD I was also a Student Support Astronomer at the Isaac Newton Telescope in La Palma for a year. Whilst looking after this older telescope in it's twilight years, I learned much the control systems and mechanics of a 1980s telescope. I'm looking forward to designing the Software and computing systems for the New Robotic Telescope.
+
 ## Dr. Chris Copperwheat (LJMU)
 **NRT Deputy-PI**
 
