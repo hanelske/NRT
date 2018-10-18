@@ -18,7 +18,6 @@ Below is a description of the partner institutes and a brief bio and photo of ea
 The Liverpool John Moores University team are part of the [Astrophysics Research Institute (ARI)](http://www.astro.ljmu.ac.uk). The Liverpool Telescope team currently consists of ten staff members and one PhD student, with one postdoc and three new NRT staff starting before the end of 2018. The ARI have a large time-domain research group who utilise the LT and advise on its potential science uses. 
 
 Coming soon at LJMU:
-* DevOps Software Engineer
 * Systems Engineer
 * Mechanical Engineer
 
@@ -30,6 +29,10 @@ The [Instituto de Astrofísica de Canarias (IAC)](http://www.iac.es/) is an inte
 # NARIT
 The [National Astronomical Research Institute of Thailand (NARIT)](http://www.narit.or.th/) is a research organisation based in Thailand enabling the development of a collaborative research network regionally and globally. NARIT have recently signed a memorandum of understanding with LJMU and are working on the design concepts of the telescope.
 
+## Dr. Doug Arnold (LJMU)
+**NRT DevOps Engineer**
+
+<d.m.arnold@ljmu.ac.uk>
 
 ## Dr. Chris Copperwheat (LJMU)
 **NRT Deputy-PI**
