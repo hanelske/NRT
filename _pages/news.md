@@ -6,7 +6,7 @@ author_profile: false
 comments: false
 toc: true
 header:
-    image: assets/LT_Lopez_crop_4_400.jpg
+    image: NRT_stars_view
 ---
 
 All the latest news on the development of the LT2 project will appear here, as well as links to relevant seminar presentations, posters and news articles.
