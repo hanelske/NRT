@@ -5,6 +5,8 @@ toc: false
 permalink: /NSO/
 author_profile: true
 comments: false
+sidebar:
+  nav: "docs"
 header:
     video: 
       id: ym1LqmzbivM
