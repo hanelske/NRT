@@ -20,7 +20,7 @@ Following the on-going success of the 2-metre fully autonomous and robotic [Live
 
 ![image-center](/assets/LT2_spaceBG_72_100.png){: .align-center}
 
-The Liverpool Telescope is accessible to all through a variety of routes (see the [LT website](http://telescope.livjm.ac.uk/PropInst/Phase1/) for more details), this model will also be adopted by the NRT (with different time splits depending on project collaborators). The NRT team are looking for partners/contributors to the project, if you are interested in getting involved please contact our [project team](science_case.md) directly, or alternatively send us an email using the form below and we'll get back to you.
+The Liverpool Telescope is accessible to all through a variety of routes (see the [LT website](http://telescope.livjm.ac.uk/PropInst/Phase1/) for more details), this model will also be adopted by the NRT (with different time splits depending on project collaborators). The NRT team are looking for partners/contributors to the project, if you are interested in getting involved please contact our project team directly, or alternatively send us an email using the form below and we'll get back to you.
 
 <form action="https://formspree.io/your@email.com"
       method="POST">
