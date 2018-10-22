@@ -1,7 +1,7 @@
 ---
 title: Ground-breaking rapid follow-up with a 4-metre successor to the Liverpool Telescope
 layout: single
-author_profile: true
+author_profile: false
 sidebar:
   nav: "docs"
 header:
