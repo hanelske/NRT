@@ -9,6 +9,8 @@ header:
     image: /assets/moon_banner.jpg
 ---
 
+UPDATE
+
 All the latest news on the development of the LT2 project will appear here, as well as links to relevant seminar presentations, posters and news articles.
 
 ## 2018
