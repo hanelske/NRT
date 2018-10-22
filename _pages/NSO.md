@@ -3,7 +3,7 @@ title: "Outreach and Engagement"
 layout: single
 toc: false
 permalink: /NSO/
-author_profile: false
+author_profile: true
 comments: false
 header:
     video: 
