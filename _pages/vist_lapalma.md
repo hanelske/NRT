@@ -7,10 +7,7 @@ author_profile: false
 comments: false
 ---
 
-o the trip was from the 25 - 28 June. The first day at the IAC we met the 3 new engineers and Dr Carlos Gutierrez. We met for lunch, a tour of the IAC on Tenerife and a meeting (of which IAS and yourself joined in via zoom or skype). 
+On 25th June staff from LJMU visited the Canary Islands. The first day was spent in Tenerife meeting Asier Oria Carreras, Juan José Sanabria Cumbreño, Miguel Ángel Torres Gil and Dr. Carlos Gutierrez of the IAC. Following a tour there was a board meeting, with participants from LJMU contributing via videolink.
 
-Second day was spent in La Palma. We went up the mountain - SB and myself did some upkeep on the LT (fold mirror cleaning and IR analysis). We then all went on a trip of several observatories, notably the WHT, GranTeCan and the Carlsberg Meridian - where the NRT will be. 
+The second day was spent in La Palma. Some maintenance work was carried out on the LT and the team visited observatories, including the William Herschel Telescope, GranTeCan and the Carlsberg Meridian Telescope - the proposed site for the NRT. The teams met with the ING director Marc Barcells and the architect to discuss the NRT site and plans. 
 
-We ended up meeting all sorts of people, such as the ING director Marc Barcells and the architect on La Palma responsible for the NRT site and plans. 
-
-At the end of the day, when all the boys were very tired, they got on a plane and went back to Liverpool. 
