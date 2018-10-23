@@ -2,7 +2,7 @@
 title: "Site visit"
 layout: single
 toc: false
-permalink: /visit_lapalma/
+permalink: /news/visit_lapalma/
 author_profile: false
 comments: false
 ---
