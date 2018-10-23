@@ -2,7 +2,7 @@
 title: "Asturfeito visit"
 layout: single
 toc: false
-permalink: /visit.md/
+permalink: /visit/
 author_profile: false
 comments: false
 ---
