@@ -31,9 +31,10 @@ The Liverpool Telescope is accessible to all through a variety of routes (see th
 
 # Latest News
 
-## Upcoming visit to Oviedo.
-At the end of September Adrian McGrath, Iain Steele and Helen Jermak from LJMU will travel to Oviedo, Asturias, Spain for the next NRT board meeting and a visit to the Asturfeito factory.
+## Visit to Oviedo.
+At the end of September staff from LJMU and IAC travelled to Oviedo, Asturias, Spain for the NRT board meeting and a visit to the Asturfeito factory. Read more on our [news page](/_pages/news.md). 
 
-## New positions
-We are in the process of appointing candidates for the DevOps software engineer, systems engineer and mechanical engineer positions at LJMU. These new starters will be joining the team before the end of 2018.
+## Visit to La Palma
+
+
 
