@@ -11,8 +11,8 @@ On 25th June 2018, LJMU staff Éamonn Harvey, Stuart Bates and Adrian McGrath vi
 
 The second day was spent on La Palma. Some maintenance work was carried out on the LT by LJMU staff and the team visited observatories, including the William Herschel Telescope, GranTeCan and the Carlsberg Meridian Telescope - the proposed site for the NRT. 
 
-![CMT](/NRT/_pages/CMT_group_smol.jpg)
-![GTC](/NRT/_pages/GTC_group_smol.jpg)
+![CMT](/NRT/_pages/CMT_group_smol.jpeg)
+![GTC](/NRT/_pages/GTC_group_smol.jpeg)
 
 The teams met with the ING director Marc Barcells and the architect to discuss the NRT site and plans. 
 
