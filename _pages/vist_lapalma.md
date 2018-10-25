@@ -14,8 +14,8 @@ The second day was spent on La Palma. Some maintenance work was carried out on t
 <figure class="half">
     <a href="/NRT/_pages/GTC_group_smol.jpeg"><img src="/NRT/_pages/GTC_group_smol.jpeg"></a>
     <a href="/NRT/_pages/CMT_group_smol.jpeg"><img src="/NRT/_pages/CMT_group_smol.jpeg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
+    <figcaption>Left: Team photo in front of the GTC. Right: The group visits the Carlsberg Meridian Telescope. </figcaption>
 </figure>
 
-The teams met with the ING director Marc Barcells and the architect to discuss the NRT site and plans. 
+The teams also met with the ING director Marc Barcells and the architect to discuss the NRT site and plans. 
 
