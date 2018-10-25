@@ -12,8 +12,8 @@ On 25th June 2018, LJMU staff Éamonn Harvey, Stuart Bates and Adrian McGrath vi
 The second day was spent on La Palma. Some maintenance work was carried out on the LT by LJMU staff and the team visited observatories, including the William Herschel Telescope, GranTeCan and the Carlsberg Meridian Telescope - the proposed site for the NRT. 
 
 <figure class="half">
-    <a href="/assets/images/image-filename-1-large.jpg"><img src="GTC_group_smol.jpeg"></a>
-    <a href="/assets/images/image-filename-1-large.jpg"><img src="CMT_group_smol.jpeg"></a>
+    <a href="GTC_group_smol.jpeg"><img src="GTC_group_smol.jpeg"></a>
+    <a href="CMT_group_smol.jpeg"><img src="CMT_group_smol.jpeg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
