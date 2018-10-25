@@ -13,7 +13,7 @@ header:
 
 Liverpool John Moores University built, owns and maintains the operation of the 2-metre fully autonomous and robotic [Liverpool Telescope (LT)](http://telescope.livjm.ac.uk/). 
 
-![LT]()
+![LT](LT.jpg)
 
 Building on the success of the LT, the design of its 4 metre successor, the New Robotic Telescope (NRT) is underway. The focus is on robotic, autonomous, fast follow-up of rapidly varying and fading transients, including gravitational wave candidates and new and exciting objects, which are anticipated to be discovered in the new upcoming era of survey telescopes. The next decade will see the commissioning of many major international projects, opening new windows on the time-variable universe. They will make it possible to search wider areas of the sky than ever before, and as such discover new classes of transient and time-variable sources at optical, radio and high-energy Gamma-ray wavelengths and exploiting multimessenger and particle physics too. There is a critical need for a new 4-metre optical follow-up facility to rapidly respond to such discoveries and make detailed photometric, spectroscopic and polarimetric observations.
 
