@@ -15,8 +15,6 @@ All the latest news on the development of the NRT project are displayed here, as
 * 27th September 2018: [LJMU and IAC visit Asturfeito factory](visit.md) to see the LSST mount in action and hold board meeting.
 * 25th June 2018:	[Three Job Vacancies for New Robotic Telescope](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20180625)
 * 25th June 2018: [LJMU IAC site visit and board meeting](vist_lapalma.md)
-
-[test](2014-11-18-mp4-video-test.md)
 * 25th January 2018:	[New Robotic Telescope workshop held in Liverpool](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20180125)
 
 ## 2017
