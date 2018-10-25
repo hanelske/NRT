@@ -13,12 +13,9 @@ The second day was spent on La Palma. Some maintenance work was carried out on t
 
 <figure class="half">
     <a href="/assets/images/image-filename-1-large.jpg"><img src="GTC_group_smol.jpeg"></a>
+    <a href="/assets/images/image-filename-1-large.jpg"><img src="CMT_group_smol.jpeg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
-
-![GTC](GTC_group_smol.jpeg)
-
 The teams met with the ING director Marc Barcells and the architect to discuss the NRT site and plans. 
 
-![CMT](CMT_group_smol.jpeg)
