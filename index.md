@@ -36,5 +36,5 @@ At the end of September staff from LJMU and IAC travelled to Oviedo, Asturias, S
 
 ## Visit to La Palma
 
-
+In June staff from LJMU visited the Canary Islands to meet IAC members of the NRT project and to visit Roque de los Muchachos and the Carlsberg Meridian Telescope site.
 
