@@ -2,7 +2,7 @@
 title: "Beam Simulator"
 layout: single
 toc: false
-permalink: /news/visit/
+permalink: /news/beam_sim/
 author_profile: false
 comments: false
 image:
@@ -21,5 +21,5 @@ we will be able to test instrument performance in a simulated operating environm
 The TBS will have the ability to simulate point (<0.5 arcsec FWHM) and extended sources over a wide field 
 (10 arcmin equivalent) at wavelengths from 3500 to 20000 Angstroms. It will have an adaptable set of mounting 
 plates, back focal distance and continuously adjustable focal ratio (via an iris within the collimated beam) 
-to simulate a wide variety of telescopes. The TBS will support current and anticipated future activity within 
-the ARI technology group for a period of ~20 years.
+to simulate a wide variety of telescopes. 
+
