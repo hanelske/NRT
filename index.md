@@ -22,7 +22,7 @@ Following the on-going success of the 2-metre fully autonomous and robotic [Live
 
 The Liverpool Telescope is accessible to all through a variety of routes (see the [LT website](http://telescope.livjm.ac.uk/PropInst/Phase1/) for more details), this model will also be adopted by the NRT (with different time splits depending on project collaborators). The NRT team are looking for partners/contributors to the project, if you are interested in getting involved please contact our [project team](/_pages/team.md) directly, or alternatively send us an email using the form below and we'll get back to you.
 
-<form action="https://formspree.io/your@email.com"
+<form action="https://formspree.io/h.e.jermak@ljmu.ac.uk"
       method="POST">
     <input type="text" placeholder="Name" name="name">
     <input type="email" placeholder="Email" name="_replyto" required>
