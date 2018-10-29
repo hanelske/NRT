@@ -13,7 +13,9 @@ The NRT design team consists of staff from Liverpool John Moores University (LJM
 
 Below is a description of the partner institutes and a brief bio and photo of each of the team members.
 
-# LJMU
+# Project Partners
+
+## LJMU
 
 The Liverpool John Moores University team are part of the [Astrophysics Research Institute (ARI)](http://www.astro.ljmu.ac.uk). The Liverpool Telescope team currently consists of ten staff members and one PhD student, with one postdoc and three new NRT staff starting before the end of 2018. The ARI have a large time-domain research group who utilise the LT and advise on its potential science uses. 
 
@@ -21,13 +23,15 @@ Coming soon at LJMU:
 * Systems Engineer
 * Mechanical Engineer
 
-# IAC
+## IAC
 
 The [Instituto de Astrofísica de Canarias (IAC)](http://www.iac.es/) is an international research centre based in the Canary Islands, Spain. They centres and observing sites on La Palma and Tenerife. The IAC officially became a partner on the NRT project in April 2016 when they signed a memorandum of understanding with LJMU. Since then the IAC have been building their team of engineers and have started exploring design concepts for the telescope and optical system.
 
 
-# NARIT
+## NARIT
 The [National Astronomical Research Institute of Thailand (NARIT)](http://www.narit.or.th/) is a research organisation based in Thailand enabling the development of a collaborative research network regionally and globally. NARIT have recently signed a memorandum of understanding with LJMU and are working on the design concepts of the telescope.
+
+# Project Staff
 
 ## Dr. Doug Arnold (LJMU)
 **NRT DevOps Engineer**
@@ -88,7 +92,7 @@ I am a mechanical engineer with strong interest in R&D projects currently workin
 I have previous experience in ground astrophysical instrumentation projects which were by far smaller than a 4m-class telescope.
 For this reason I am willing to learn as much as possible from this exciting new project.
 
-## Dr. Thirasak Panyaphirawat (NARIT)
+## 
 **Project Partner**
 
 ## Prof. Rafael Rebolo (IAC)
@@ -116,3 +120,29 @@ I am the LT Director and Head of the Technology Group at ARI, LJMU.  I obtained 
 ![Asier](Miguel-smol.jpg)
 
 I am a computer engineer with a great affinity to hardware and electronics. I have worked in a variety of different R&D projects, from asistive technologies for blind people to unmanned solar airplanes, wind tunnels and assistant robots. I have also worked a lot on prototyping and researching involving mechanics, electronics and software. In the NRT project I have the oportunity of participating in a bigger project and develop my skills as a systems engineer. The NRT is an exciting project where I am sure I will develop new skills and learn a lot from excelent engineers and scientists.
+
+# Project Oversight
+
+A project board has been established with representatives of the project partners.  The board is taked with:
+ 
+* Supporting the development of a Consortium Agreement for the design phase, and approving any subsequent changes to the Agreement; 
+* Overseeing progress of initial design phase of the NRT project against the programme plan, schedule and agreed milestones; 
+* Confirming priorities, resolving issues and providing advice as requested and required by the Project Executive Group; 
+* Approving major changes to specification, cost, schedule and science scope in the project; 
+* Acting as an interface to the ORM and advising the ORM and CCI on the NRT as part of wider strategic discussions concerning the ORM; and 
+* Advising the Project Executive Group on financial planning and funding matters, as required.
+
+Membership of the Project Board is balanced across the funding representatives of the consortium participants and currently comprises representatives of LJMU, IAC, NARIT.  
+
+* Prof Ahmed Al-Shamma, Exectutive Dean, Facutly of Engineering and Technology, LJMU
+* Prof Chris Collins, Director, ARI, LJMU
+* Dr. Carlos Gutierrez, IAC
+* Prof Johan Knapen, IAC
+* Prof Paulo Mazzali, ARI, LJMU
+* Dr. Thirasak Panyaphirawat, NARIT
+* Prof Rafael Rebolo, Director, IAC
+
+In addition the project PI (Prof Iain Steele) is chair of the board and the Deputy-PI (Dr Chris Copperwheat),
+Project Manager (Mr Adrian McGrath) and Project Scientist (Dr Helen Jermak) are in attendance.
+
+
