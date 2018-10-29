@@ -13,6 +13,7 @@ All the latest news on the development of the NRT project are displayed here, as
 
 ## 2018
 * 23rd October 2018:  [Award of STFC grant for telescope beam simulator](NEWS_beam_sim.md)
+* 17th Octover 2018:  [Selection of NRT Project as an STFC World Class Research Programme item](https://stfc.ukri.org/about-us/our-purpose-and-priorities/planning-and-strategy/stfc-reviews/research-programme/?previewid=78E7D713-75C9-4556-96115F96F6237E61)
 * 27th September 2018: [LJMU and IAC visit Asturfeito factory](visit.md) to see the LSST mount in action and hold board meeting.
 * 25th June 2018:	[Three Job Vacancies for New Robotic Telescope](http://telescope.livjm.ac.uk/News/Archive/index.php?sf=s20180625)
 * 25th June 2018: [LJMU IAC site visit and board meeting](vist_lapalma.md)
