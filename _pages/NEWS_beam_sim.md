@@ -12,7 +12,7 @@ date: 2014-11-18T11:34:04-05:00
 
 We are pleased to announce that STFC have awarded a small capital grant to LJMU to develop a “Telescope Beam Simulator” (TBS) 
 with the ability to support the development of instruments for both our current (LT) and future (NRT) 
-class telescopes. It will allow testing of the optical performance (image quality, vignetting, induced polarization) 
+telescopes. It will allow testing of the optical performance (image quality, vignetting, induced polarization) 
 of developed imaging, spectroscopic and polarimetric instrumentation without the need to transport it to the telescope site 
 and disrupt operations. This will lead to reduced development cost and time and improved quality for delivered instruments. 
 In addition by exploiting the environmental test facilities of the [LJMU/UoL Sensor City](http://www.sensorcity.co.uk) 
