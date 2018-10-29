@@ -10,7 +10,7 @@ header:
 ---
 
 
-The New Robotic Telescope (NRT) will be co-located with the current Liverpool Telescope (LT) at Observatory Roque de los Muchachos (ORM) on the Canary Island of La Palma. The site has an altitude of 2396 metres (7861 feet) and was established in 1985. It currently hosts 15 telescopes covering solar, optical and Gamma-ray astronomy. Along with the NRT, future telescope projects for ORM include the Cherenkov Telescope Array North and the Thirty Meter Telescope, in the event that construction of Maunakea is not possible.
+The New Robotic Telescope (NRT) will be co-located with the current Liverpool Telescope (LT) at Observatory Roque de los Muchachos (ORM) on the Canary Island of La Palma. The site has an altitude of 2396 metres (7861 feet) and was established in 1985. It currently hosts 15 telescopes covering solar, optical and Gamma-ray astronomy. Along with the NRT, future telescope projects for ORM include the Cherenkov Telescope Array North and, potentially, the Thirty Meter Telescope in the event that construction on Maunakea is not possible.
 
 ![lapalma_map](lapalma_map.png){: .align-center}
 
