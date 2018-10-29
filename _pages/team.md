@@ -127,7 +127,7 @@ Membership of the Project Board is balanced across the funding representatives o
 * Prof Chris Collins, Director, ARI, LJMU
 * Dr. Carlos Gutierrez, IAC
 * Prof Johan Knapen, IAC
-* Prof Paulo Mazzali, ARI, LJMU
+* Prof Paolo Mazzali, ARI, LJMU
 * Dr. Thirasak Panyaphirawat, NARIT
 * Prof Rafael Rebolo, Director, IAC
 
