@@ -29,12 +29,3 @@ The Liverpool Telescope is available for all to use through a variety of differe
     <input type="submit" value="Send">
 </form>
 
-# Latest News
-
-## Visit to Oviedo.
-At the end of September staff from LJMU and IAC travelled to Oviedo, Asturias, Spain for the NRT board meeting and a visit to the Asturfeito factory. Read more on our [news page](/_pages/news.md). 
-
-## Visit to La Palma
-
-In June staff from LJMU visited the Canary Islands to meet IAC members of the NRT project and to visit Roque de los Muchachos and the Carlsberg Meridian Telescope site.
-
