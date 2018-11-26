@@ -5,8 +5,6 @@ permalink: /news/
 author_profile: false
 comments: false
 toc: true
-header:
-    image: /assets/moon_banner.jpg
 ---
 
 All the latest news on the development of the NRT project are displayed here, as well as links to relevant seminar presentations, posters and news articles.
@@ -53,3 +51,6 @@ All the latest news on the development of the NRT project are displayed here, as
 * 16th May 2013: Seminar at Mullard Space Science Laboratory
 * 12th March 2013: Article published in the newsletter of the Welsh Opto-Electronics Forum
 * 5th March 2013: Article published in LJMU Think magazine
+
+header:
+    image: /assets/moon_banner.jpg
