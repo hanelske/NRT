@@ -11,7 +11,7 @@ header:
       provider: vimeo
 ---
 
-Liverpool John Moores University built, owns and maintains the operation of the 2-metre fully autonomous and robotic [Liverpool Telescope (LT)](http://telescope.livjm.ac.uk/). 
+Liverpool John Moores University's (Astrophysics Research Institute (ARI))[http://www.astro.ljmu.ac.uk/Main_Page] built, owns and maintains the operation of the 2-metre fully autonomous and robotic [Liverpool Telescope (LT)](http://telescope.livjm.ac.uk/). 
 
 ![LT](LT.jpg){: .align-center}
 
