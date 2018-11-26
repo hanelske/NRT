@@ -5,8 +5,6 @@ toc: true
 permalink: /team/
 author_profile: false
 comments: false
-header:
-  image: LSST_group_crop.jpg
 ---
 
 The NRT design team consists of staff from Liverpool John Moores University (LJMU), the Instituto de Astrofisica de Canarias (IAC) and the National Astronomical Research Institute of Thailand (NARIT). 
@@ -133,4 +131,6 @@ Membership of the Project Board is balanced across the funding representatives o
 In addition the project PI (Prof Iain Steele) is chair of the board and the Deputy-PI (Dr Chris Copperwheat),
 Project Manager (Mr Adrian McGrath) and Project Scientist (Dr Helen Jermak) are in attendance.
 
+header:
+  image: LSST_group_crop.jpg
 
