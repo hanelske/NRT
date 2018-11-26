@@ -5,8 +5,6 @@ toc: true
 permalink: /site/
 author_profile: false
 comments: false
-header:
-    image: lapalma_view.png
 ---
 
 
@@ -27,4 +25,7 @@ More information can be found on the [Isaac Newton Group of Telescopes website](
 The presence of the LT affords many advantages as the site is familiar to the LT team and co-location simplifies logistics, there is already an established workshop at the LT site and the former CMT site has existing infrastructure in place. The collaboration with the IAC is vital, and our connections with existing Spanish construction and utilities companies allow a smoother progression through the project.
 
 The La Palma location will be complementary to the specialized observing roles being adopted by the ING telescopes. The new instrument,  WEAVE (multi-object spectrograph for the WHT), will deliver statistically complete catalogues of object populations of which the NRT could perform follow-up of variable sources and the rare objects not well suited to the massively multiplexed WEAVE model. The NRT will play a key role in monitoring the Northern transient sky (many sources of transients are all sky: Gaia, gravitational wave candidates from aLIGO/Virgo, Gamma-ray Bursts or Northern hemisphere: Zwicky Transient Factory, Cherenkov Telescope Array-North, IceCUBE etc). La Palma is also sufficiently equatorial that many Large Synoptic Survey Telescope targets will be visible for ~4-6 hours per night. Co-location on La Palma with the GOTO gravitational wave counterpart finder and the current LT (which we plan to transition to a wide field survey/transient detection machine) also adds value. The La Palma site therefore offers considerable scientific synergies and opportunities, combined with its logistical and cost advantages due to its relatively nearby location and well developed existing infrastructure.
+
+%header:
+    #image: lapalma_view.png
 
