@@ -31,15 +31,11 @@ In particular the NRT will carry out
 
 # Explosive transient trigger response
 
-![](ESO_scopes.jpg){: .align-center}
-
 The Liverpool Telescope's autonomous and robotic follow-up has been key for Gamma-ray burst science. The rapidly fading nature of short Gamma-ray bursts means that traditional telescopes struggle to catch the source before it has become too faint. The automated response to NASA Swift triggers, without human intervention, allows the LT to take data within minutes of outburst. For the NRT we aim to be on target, taking observations, within 30 seconds of a trigger. This will allow a new generation of transient objects, discovered with facilities such as SVOM, to be routinely optically observed during the prompt emission phase for the first time.
 
 Robotic Telescopes like the NRT are uniquely suited to the task of transient follow-up since they can flexibly and automatically react to new discoveries in real time. They are quick to react to the most exciting targets: in the era of fast discovery, the follow-up must proceed with a similar alacrity. The LT is currently a world-leading facility for time-domain rapid response, but the sensitivity of the new discovery facilities means the fainter targets will require a larger aperture optical follow-up facility.
 
 #  Survey follow-up
-
-![telescopes](ESO_scopes.jpg){: .align-center}
 
 The profile of time domain astrophysics will rise immensely in the coming decades, since temporal work will be a key component of many new ground- and space-based facilities. From the ground, huge numbers of optical transients are being discovered by new 'synoptic surveys', such as iPTF/ZTF and Pan-STARRS. A key new survey astronomy facility will be the Large Synoptic Sky Survey (LSST). The LSST, under construction on Cerro Pachón, Chile, will offer cadence and depth, leading a new 'faint and fast' discovery regime. The LSST will join other transient discovery facilities in the Southern Hemisphere such as PESSTO, SoXS and SkyMapper. Although the NRT will be in the Northern hemisphere there is still a considerable area of sky overlap. The high observing efficiency of NRT will afford the best opportunity to efficiently spectroscopically follow-up LSST sources, essential for delivering astrophysical insight.
 
