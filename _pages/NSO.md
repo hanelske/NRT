@@ -7,10 +7,6 @@ author_profile: false
 comments: false
 sidebar:
   nav: "docs"
-header:
-    video: 
-      id: ym1LqmzbivM
-      provider: youtube
 ---
 
 ## The National Schools' Observatory
