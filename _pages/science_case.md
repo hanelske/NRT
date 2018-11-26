@@ -24,9 +24,9 @@ The main science requirements of the NRT are:
 
 In particular the NRT will carry out 
 * ultra-rapid (<30 seconds) spectroscopic and polarimetric follow-up of electromagnetic counterparts of gravitational wave ([aLIGO](https://www.advancedligo.mit.edu/)/[Virgo](http://www.virgo-gw.eu/)) and neutrino ([IceCUBE](https://icecube.wisc.edu/)/[ANTARES](http://antares.in2p3.fr/)) sources and new radio (e.g. [LOFAR](http://www.lofar.org/)/[SUPERB](https://sites.google.com/site/publicsuperb/)) and high energy (e.g. [SVOM](http://www.svom.fr/en/), [Fermi](https://fermi.gsfc.nasa.gov/), [Einstein Probe](http://ep.bao.ac.cn/)) transients, 
-* rapid (<1hr) spectroscopy and polarimetry of (e.g. [LSST](https://www.lsst.org/)/[Zwicky Transient Facility (ZTF)](https://www.ztf.caltech.edu/)) supernovae (SNe) to explore the shock-breakout phase and find spectral signatures of the progenitor, and of recurrent novae (the supposed progenitors of Type Ia SNe), 
+* rapid (<1hr) spectroscopy and polarimetry of (e.g. [LSST](https://www.lsst.org/)/[ZTF](https://www.ztf.caltech.edu/)) supernovae (SNe) to explore the shock-breakout phase and find spectral signatures of the progenitor, and of recurrent novae (the supposed progenitors of Type Ia SNe), 
 * timely (<24 hours) and time resolved spectroscopy of the evolution of the afor mentioned sources, plus galactic transients such as outbursting binary X-ray transients and eruptive Young Stellar Objects (YSOs) detected by [VISTA](http://www.vista.ac.uk/)/[Pan-STARRS](https://panstarrs.stsci.edu/)/[LSST](https://www.lsst.org/), and
-* simultaneous spectroscopic and polarimetric monitoring of pre-scheduled observations of sources such as blazars (e.g. with Fermi, CTA) and changing-look AGN.
+* simultaneous spectroscopic and polarimetric monitoring of pre-scheduled observations of sources such as blazars (e.g. with [Fermi](https://fermi.gsfc.nasa.gov/), [CTA](https://www.cta-observatory.org/)) and changing-look AGN.
 {: .notice--info}
 
 # Explosive transient trigger response
