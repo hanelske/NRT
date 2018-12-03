@@ -31,6 +31,6 @@ docs:
         url: /NSO/
   - title:  "External Links"
     children:
-      - title: "Liverpool Telecsope"
-        url: "https://telescopelivjm.ac.uk"
+      - title: "Liverpool Telescope"
+        url: "https://telescope.livjm.ac.uk/"
    
