@@ -15,7 +15,7 @@ main:
    
    #side bar
 docs:
-  - title:  "Quick Links"
+  - title:  "Site Links"
     children:
       - title: "About"
         url: /telescope/
@@ -29,3 +29,8 @@ docs:
         url: /news/
       - title: "Outreach" 
         url: /NSO/
+  - title:  "External Links"
+    children:
+      - title: "Liverpool Telecsope"
+        url: "https://telescopelivjm.ac.uk"
+   
