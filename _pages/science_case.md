@@ -10,7 +10,7 @@ comments: false
 The New Robotic Telescope will be one of the fastest responding ground-based optical facilities, designed for rapid response to triggers and using its speed and autonomous responses to be first on target for many fast and fading sources. The key science drivers for the NRT are time-domain sources: highly variable and transient objects whose cadence, brightness, predictability and origin are often unknown prior to discovery. The source of their variable and transient nature is either intrinsic (such as the cataclysmic death of a star in a supernova explosion) or extrinsic (the transit of an exoplanet past its host star). The image below shows an example of known intrinsically variable sources.
 
 ![transient phase space](transient_phase_space.png)
-*image caption*
+*Taken from Rau et al. 2009, PASP, 121, 1334*
 
 These sources are notoriously difficult to follow-up. The design of the NRT with its rapid slew rate, automated response to triggers and 4-metre primary mirror is ideal for the study of sources such as supernovae, gamma-ray bursts, electromagnetic counterparts to gravitational wave sources, exoplanets, Gaia sources, fast-radio bursts, and new and currently unknown sources that will be discovered in the coming years. 
 
