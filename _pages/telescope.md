@@ -10,6 +10,7 @@ toc: true
 Liverpool John Moores University's (Astrophysics Research Institute [(ARI)](http://www.astro.ljmu.ac.uk/Main_Page) built, owns and maintains the operation of the 2-metre fully autonomous and robotic [Liverpool Telescope (LT)](http://telescope.livjm.ac.uk/). 
 
 ![LT](LT.jpg){: .align-center}
+*Image credit Mike Tomlinson (2014)*
 
 Building on the success of the LT, the design of its 4 metre successor, the New Robotic Telescope (NRT) is underway. The focus is on robotic, autonomous, fast follow-up of rapidly varying and fading transients, including gravitational wave candidates and new and exciting objects, which are anticipated to be discovered in the new upcoming era of survey telescopes. The next decade will see the commissioning of many major international projects, opening new windows on the time-variable universe. They will make it possible to search wider areas of the sky than ever before, and as such discover new classes of transient and time-variable sources at optical, radio and high-energy Gamma-ray wavelengths and exploiting multimessenger and particle physics too. There is a critical need for a new 4-metre optical follow-up facility to rapidly respond to such discoveries and make detailed photometric, spectroscopic and polarimetric observations.
 
@@ -30,6 +31,7 @@ setting their sights on a larger, more challenging project. The NRT control syst
 
 ## Optical design
 ![image-center](NRT_side_view.png){: .align-center}
+*Image credit NRT engineering team*
 
 The NRT is designed for rapid follow-up of transient objects (see the [Science Case](science_case.md) for full details). The 4-metre diameter mirror will enable the exploration of fainter sources and shorter exposure times (and thus increased cadence monitoring) of transient and variable objects.
 
@@ -37,6 +39,7 @@ The baseline optical design that has been developed for the facility is a Ritche
 
 ## Mirror design
 ![image-center](petalvshexvscirc_seg.png){: .align-center}
+*Image credit Éamonn Harvey*
 
 A 6-segment hexagonal or petal design would allow easier removal of segments, more regular maintenance, less down-time and are lighter than a monolithic mirror (due to the thickness required to stabilise a 4-metre monolith). Seven identical segments would be used in rotation, allowing the telescope to continue observing during recoating without needing to go offline. A monolithic mirror would also be a single point of failure; if it were to be damaged in the removal/recoating process there is no back-up. A monolithic mirror ideally requires a crane fixed to the dome for removal. The current LT enclosure does not allow for a fixed crane, so an external crane is required.
 
@@ -47,6 +50,7 @@ Segmented mirrors require complicated software to co-align or phase the mirrors,
 ## Enclosure design
 
 ![image-center](15640727497_d9263ee46c_o.jpg){: .align-center}
+*Image credit LT team*
 
 The iconic clamshell enclosure of the LT is operated by hydraulic rams that deploy to allow the three portals on either side to lower and overlap each other, creating an entirely open space around the telescope. This design allows the LT to rapidly slew across the sky arriving at the target of interest within minutes, without waiting for dome rotation, it also removes any effects from dome seeing. It does, however, leave the telescope vulnerable to wind shake, and delicate instrumentation housed on the telescope Cassegrain can be exposed to Calima (the hot, dry dust that comes from the Sahara). 
 
@@ -59,5 +63,6 @@ The Liverpool Telescope, following first light in 2004, is now at a mature stage
 As we move forward with NRT project, the role of the LT will change to enhance the synergy between the two facilities. The plan for the LT is to simplify the instrumentation suite to a wide-field 2x2 degree camera at prime focus and a straight-through fibre-fed spectrograph. These instruments align well with gravitational-wave counterpart candidate searches and surveys, along with the monitoring of other transient and variable objects. The two telescopes would be run as a combined facility providing simultaneous spectroscopy and photometry of the same target and the LT would be operated as a transient-finding facility. The Palomar Transient Factory has demonstrated the utility of this factory approach to transient science, and a fully automotated robotic facility would be extremely productive.
 
 ![image-center](LT_newpurpose.png){: .align-center}
+*Image credit Iain Steele, Chris Copperwheat*
 
 The two facilities will be available to all partners of the NRT project, and in addition they will continue to be made available to school children across the world via the Schools' Observatory, and the amount of observing time on the Liverpool Telescope will increase from its current level of 10%. For more information about our future outreach programmes see our [outreach](NSO.md) page.
