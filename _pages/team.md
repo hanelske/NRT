@@ -28,6 +28,10 @@ The [Instituto de Astrofísica de Canarias (IAC)](http://www.iac.es/) is an inte
 ## NARIT
 The [National Astronomical Research Institute of Thailand (NARIT)](http://www.narit.or.th/) is a research organisation based in Thailand enabling the development of a collaborative research network regionally and globally. NARIT have recently signed a memorandum of understanding with LJMU and are working on the design concepts of the telescope.
 
+## Univeristy Of Oviedo
+
+The [Univeristy of Oveideo](http://www.uniovi.es/en) is a public institution of higher education and research in the Principality of Asturias, Spain.  
+
 # Project Staff
 
 ## Dr. Doug Arnold (LJMU)
@@ -118,7 +122,7 @@ A project board has been established with representatives of the project partner
 * Acting as an interface to the ORM and advising the ORM and CCI on the NRT as part of wider strategic discussions concerning the ORM; and 
 * Advising the Project Executive Group on financial planning and funding matters, as required.
 
-Membership of the Project Board is balanced across the funding representatives of the consortium participants and currently comprises representatives of LJMU, IAC, NARIT.  
+Membership of the Project Board is balanced across the funding representatives of the consortium participants and currently comprises representatives of LJMU, IAC, NARIT and the Univeristy of Oviedo.  
 
 * Prof Ahmed Al-Shamma, Executive Dean, Faculty of Engineering and Technology, LJMU
 * Prof Chris Collins, Director, ARI, LJMU
@@ -127,6 +131,7 @@ Membership of the Project Board is balanced across the funding representatives o
 * Prof Paolo Mazzali, ARI, LJMU
 * Dr. Thirasak Panyaphirawat, NARIT
 * Prof Rafael Rebolo, Director, IAC
+* Prof Javier de Cos, University of Oviedo
 
 In addition the project PI (Prof Iain Steele) is chair of the board and the Deputy-PI (Dr Chris Copperwheat),
 Project Manager (Mr Adrian McGrath) and Project Scientist (Dr Helen Jermak) are in attendance.
