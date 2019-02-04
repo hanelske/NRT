@@ -25,9 +25,9 @@ The [Instituto de Astrofísica de Canarias (IAC)](http://www.iac.es/) is an inte
 ## NARIT
 The [National Astronomical Research Institute of Thailand (NARIT)](http://www.narit.or.th/) is a research organisation based in Thailand enabling the development of a collaborative research network regionally and globally. NARIT have recently signed a memorandum of understanding with LJMU and are working on the design concepts of the telescope.
 
-## Univeristy Of Oviedo
+## University Of Oviedo
 
-The [Univeristy of Oveideo](http://www.uniovi.es/en) is a public institution of higher education and research in the Principality of Asturias, Spain.  
+The [University of Oveideo](http://www.uniovi.es/en) is a public institution of higher education and research in the Principality of Asturias, Spain.  
 
 # Project Staff
 
