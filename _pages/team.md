@@ -17,9 +17,6 @@ Below is a description of the partner institutes and a brief bio and photo of ea
 
 The Liverpool John Moores University team are part of the [Astrophysics Research Institute (ARI)](http://www.astro.ljmu.ac.uk). The Liverpool Telescope team currently consists of thirteen staff members (including one postdoc) and two PhD students, with one new NRT staff member starting in early 2019. The ARI have a large time-domain research group who utilise the LT and advise on its potential science uses. 
 
-Coming soon at LJMU:
-* Mechanical Engineer
-
 ## IAC
 
 The [Instituto de Astrofísica de Canarias (IAC)](http://www.iac.es/) is an international research centre based in the Canary Islands, Spain, with centres and observing sites on La Palma and Tenerife. The IAC officially became a partner of the NRT project in April 2016 when they signed a memorandum of understanding with LJMU. Since then the IAC have been building their team of engineers and have started exploring design concepts for the telescope and optical system.
@@ -87,6 +84,8 @@ I am a mechanical engineer with strong interest in R&D projects currently workin
 I have previous experience in ground astrophysical instrumentation projects which were by far smaller than a 4m-class telescope.
 For this reason I am willing to learn as much as possible from this exciting new project.
 
+## Ali Ranjbar (LJMU)
+**Mechanical Engineer**
 
 ## Mr. Juan José Sanabria Cumbreño (IAC)
 **Software Engineer**
