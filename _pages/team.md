@@ -97,7 +97,7 @@ I have been working for years as software engineer in Madrid in different projec
 ## Prof. Iain Steele (LJMU)
 **NRT Director**
 
-[Iain Steele]<i.a.steele@ljmu.ac.uk>
+<i.a.steele@ljmu.ac.uk>
 
 ![Iain Steele](ias.jpg)
 
