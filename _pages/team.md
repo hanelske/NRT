@@ -40,6 +40,15 @@ The [University of Oveideo](http://www.uniovi.es/en) is a public institution of 
 
 I have been interested in Telescopes and Astronomy since being a teenager. After studying Physics and Astronomy I completed a PhD at Liverpool John Moores University working with instrumentation on the Liverpool Telescope, to measure polarisation of Gamma-ray Burst Afterglows. During the PhD I was also a Student Support Astronomer at the Isaac Newton Telescope in La Palma for a year. Whilst looking after this older telescope in it's twilight years, I learned much the control systems and mechanics of a 1980s telescope. I'm looking forward to designing the Software and computing systems for the New Robotic Telescope.
 
+## David Copley (LJMU)
+**Systems Engineer*
+
+<D.Copley@ljmu.ac.uk>
+
+I have an industry background in Automotive systems, specifically in mechatronic systems. Most recently I took a systems specialist role at Sensor City in Liverpool’s Knowledge Quarter working with companies to adopt Industry4 technologies where I was particularly interested in embedded systems. I’m very excited to now be working on the New Robotic Telescope project with many talented engineers and scientists from a variety of disciplines. I hope to broaden my skills in systems engineering throughout the project and gain insights into optical telescope design and astronomy in general.
+
+![David Copley](copley.png)
+
 ## Dr. Chris Copperwheat (LJMU)
 **NRT Deputy-PI**
 
