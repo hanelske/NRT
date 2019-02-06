@@ -45,9 +45,10 @@ I have been interested in Telescopes and Astronomy since being a teenager. After
 
 <D.Copley@ljmu.ac.uk>
 
+![David Copley](copley.png)
+
 I have an industry background in Automotive systems, specifically in mechatronic systems. Most recently I took a systems specialist role at Sensor City in Liverpool’s Knowledge Quarter working with companies to adopt Industry4 technologies where I was particularly interested in embedded systems. I’m very excited to now be working on the New Robotic Telescope project with many talented engineers and scientists from a variety of disciplines. I hope to broaden my skills in systems engineering throughout the project and gain insights into optical telescope design and astronomy in general.
 
-![David Copley](copley.png)
 
 ## Dr. Chris Copperwheat (LJMU)
 **NRT Deputy-PI**
@@ -80,6 +81,8 @@ I obtained my PhD from LJMU in 2016 and worked as an E-ELT PDRA at Lancaster Uni
 **NRT Project Manager**
 
 <a.m.mcgrath@ljmu.ac.uk>
+
+![Adrian McGrath](ARIAMCG1.jpg)
 
 I am the New Robotic Telescope Project Manager. I am a Prince2 and Scrum Master qualified Project Manager who has used these methodologies in isolation and combined to deliver a variety of different sized projects.
 Multi-disciplined projects like the NRT are a great opportunity to develop existing skills and learn new ones. I’m excited to discover what new skills I’m going acquire during this project.
