@@ -1,12 +1,14 @@
 ---
 title:  "NRT science session at NAM"
 layout: single
-permalink: /news/NAM2019
+permalink: /news/NAM2019/
 author_profile: false
 comments: false
-toc: true
+toc: false
+image:
+  feature:
+date: 2014-11-18T11:34:04-05:00
 ---
-
 
 The New Robotic Telescope (NRT) group will be organising a session at this year's National Astronomy Meeting (NAM) from 30th June - 4th July. Hosted by the Royal Astronomical Society, NAM2019 will be held at Lancaster University. As part of the 4 day conference, two 90 minute sessions will be held to discuss the future science topics for the NRT, along with the instrumentation requirements for the most effective time domain research.
 
