@@ -11,7 +11,6 @@ All the latest news on the development of the NRT project are displayed here, as
 
 ## 2019
 * 26th February 2019: [NRT science session at the National Astronomy Meeting, Lancaster](NEWS_NAM.md)
-* 21st January 2019: Funding application submitted to Research England.
 
 ## 2018
 * 23rd October 2018:  [Award of STFC grant for telescope beam simulator](NEWS_beam_sim.md) 
