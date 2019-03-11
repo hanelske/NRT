@@ -99,6 +99,10 @@ For this reason I am willing to learn as much as possible from this exciting new
 ## Ali Ranjbar (LJMU)
 **Mechanical Engineer**
 
+![Ali](ali_image.jpeg)
+
+I am a multi-disciplinary design engineer with experience in aerospace structural analysis and mechanism design. I have worked a variety of projects, such as sizing an electric trainer airplane, and the analysis of a spacecraft propulsion system. I’m looking forward to this great opportunity of working with the team on the New Robotic Telescope design.
+
 ## Mr. Juan José Sanabria Cumbreño (IAC)
 **Software Engineer**
 
