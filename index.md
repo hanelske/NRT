@@ -30,3 +30,4 @@ The Liverpool Telescope is available for all to use through a variety of differe
     <input type="submit" value="Send">
 </form>
 
+The ARI Astronomical Technology Group's policies regarding the collection, use and disclosure of your personal information are available [here](http://telescope.livjm.ac.uk/Privacy/).
